@@ -7,17 +7,28 @@
     code{background:#e8edf3;padding:.1em .35em;border-radius:.25rem}
     a{color:#0f5dd6}
     .feed{padding:1rem 1.25rem;background:#fff;border-radius:.75rem;margin:.75rem 0;box-shadow:0 1px 3px rgba(0,0,0,.06)}
+    .meta{font-size:.85rem;color:#5d6b7e;margin:.25rem 0}
   </style></head><body>
   <h1>uk-waterway-data</h1>
   <p>Automated mirror of public UK inland-waterway notices.
     Refreshed periodically from upstream sources.</p>
-  <div class="feed">
-    <h2>CRT stoppages</h2>
-    <p>UK Canal &amp; River Trust navigation notices.</p>
-    <p><a href="crt_stoppages.json"><code>crt_stoppages.json</code></a></p>
-  </div>
+  
+            <div class="feed">
+              <h2>CRT navigation notices</h2>
+              <p>UK Canal & River Trust closures, restrictions and advice.</p>
+              <p class="meta">refreshed every 4 hours · 356 entries</p>
+              <p><a href="crt_stoppages.json"><code>crt_stoppages.json</code></a></p>
+            </div>
+            
+            <div class="feed">
+              <h2>EA flood warnings</h2>
+              <p>Environment Agency active flood warnings and alerts.</p>
+              <p class="meta">refreshed hourly · 2 entries</p>
+              <p><a href="ea_floods.json"><code>ea_floods.json</code></a></p>
+            </div>
+            
   <p style="margin-top:2rem;color:#5d6b7e;font-size:.85rem">
-    Data sourced from <a href="https://canalrivertrust.org.uk/notices">canalrivertrust.org.uk/notices</a>.
-    This site is a personal mirror, not affiliated with the Canal &amp; River Trust.
+    This site is a personal mirror, not affiliated with the upstream
+    publishers. Data sources: Canal &amp; River Trust, Environment Agency.
   </p>
 </body></html>

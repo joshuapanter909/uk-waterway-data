@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "schema_version": 1,
+    "source": "https://environment.data.gov.uk/flood-monitoring/id/floods",
+    "generated_at": "2026-05-11T14:07:26.832459+00:00"
+  },
+  "source_url": "https://environment.data.gov.uk/flood-monitoring/id/floods",
+  "notice_count": 2,
+  "notices": [
+    {
+      "id": "054WATBT3",
+      "severity_level": 3,
+      "severity_label": "Flood alert",
+      "description": "The tidal River Waveney from Ellingham to Breydon Water",
+      "message": "Tide locking, where high tides restrict normal drainage of the river out to sea, this evening may lead to flooding. \nFlooding is possible between 7pm and 9pm tonight on Monday 11th May 2026. \nWe expect to see high water levels at Beccles Quay. River levels will remain high this evening due to tide locking, which is where tides restrict normal drainage of the river out to the sea. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 10:00AM on 12 May 2026 or as the situation changes.\n\n",
+      "river_or_sea": "Waveney",
+      "county": "Norfolk, Suffolk",
+      "ea_area_name": "East Anglia",
+      "is_tidal": true,
+      "time_raised": "2026-05-11T13:54:31",
+      "time_message_changed": "2026-05-11T13:54:00",
+      "time_severity_changed": "2026-05-11T13:54:00",
+      "lat": 52.50872,
+      "lng": 1.60026,
+      "bbox": [
+        52.43568,
+        1.4781,
+        52.58176,
+        1.72242
+      ],
+      "polygon_url": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3/polygon",
+      "target_area_url": "https://check-for-flooding.service.gov.uk/target-area/054WATBT3"
+    },
+    {
+      "id": "054WATBT2",
+      "severity_level": 3,
+      "severity_label": "Flood alert",
+      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
+      "message": "Tide locking, where high tides restrict normal drainage of the river out to sea, today may lead to flooding. \nFlooding is possible between 6:30pm and 8:30pm tonight, on Monday 11th May 2026. \nWe expect to see high water levels in Brundall and Reedham riverside areas. River levels will remain high this evening due to tide locking, which is where tides restrict normal drainage of the river out to the sea. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 10:00AM on 12 May 2026 or as the situation changes.\n\n",
+      "river_or_sea": "River Yare",
+      "county": "Norfolk",
+      "ea_area_name": "East Anglia",
+      "is_tidal": true,
+      "time_raised": "2026-05-11T14:00:19",
+      "time_message_changed": "2026-05-11T14:00:00",
+      "time_severity_changed": "2026-05-11T14:00:00",
+      "lat": 52.57212,
+      "lng": 1.518485,
+      "bbox": [
+        52.51622,
+        1.32138,
+        52.62802,
+        1.71559
+      ],
+      "polygon_url": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
+      "target_area_url": "https://check-for-flooding.service.gov.uk/target-area/054WATBT2"
+    }
+  ]
+}
