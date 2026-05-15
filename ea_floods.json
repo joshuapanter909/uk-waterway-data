@@ -2,11 +2,35 @@
   "meta": {
     "schema_version": 1,
     "source": "https://environment.data.gov.uk/flood-monitoring/id/floods",
-    "generated_at": "2026-05-15T08:10:01.943194+00:00"
+    "generated_at": "2026-05-15T11:27:29.292031+00:00"
   },
   "source_url": "https://environment.data.gov.uk/flood-monitoring/id/floods",
-  "notice_count": 1,
+  "notice_count": 2,
   "notices": [
+    {
+      "id": "121WAC922",
+      "severity_level": 3,
+      "severity_label": "Flood alert",
+      "description": "Tyne and Wear coast",
+      "message": "High tides this afternoon may lead to flooding. \nFlooding is possible from 1:00PM to 5:00PM on 15/02/2026. \nStrong winds combined with high tides may lead to wave overtopping. Locations most affected will be coastal roads and footpaths in Hendon Promenade, Seaburn Lower Promenade and Seaham Harbour and Docks between 1:00PM and 5:00PM. \nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded . \nThis message will be updated by 7:00PM on 15 May 2026 or as the situation changes.\n",
+      "river_or_sea": "North Sea",
+      "county": "County Durham, Hartlepool, North Tyneside, South Tyneside, Sunderland",
+      "ea_area_name": "North East",
+      "is_tidal": true,
+      "time_raised": "2026-05-15T09:55:42",
+      "time_message_changed": "2026-05-15T09:55:00",
+      "time_severity_changed": "2026-05-15T09:55:00",
+      "lat": 54.897605,
+      "lng": -1.3472849999999998,
+      "bbox": [
+        54.71848,
+        -1.46177,
+        55.07673,
+        -1.2328
+      ],
+      "polygon_url": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC922/polygon",
+      "target_area_url": "https://check-for-flooding.service.gov.uk/target-area/121WAC922"
+    },
     {
       "id": "063WAT23West",
       "severity_level": 3,
