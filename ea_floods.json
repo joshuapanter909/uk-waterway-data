@@ -2,10 +2,10 @@
   "meta": {
     "schema_version": 1,
     "source": "https://environment.data.gov.uk/flood-monitoring/id/floods",
-    "generated_at": "2026-05-15T11:27:29.292031+00:00"
+    "generated_at": "2026-05-15T14:29:02.988574+00:00"
   },
   "source_url": "https://environment.data.gov.uk/flood-monitoring/id/floods",
-  "notice_count": 2,
+  "notice_count": 4,
   "notices": [
     {
       "id": "121WAC922",
@@ -54,6 +54,54 @@
       ],
       "polygon_url": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West/polygon",
       "target_area_url": "https://check-for-flooding.service.gov.uk/target-area/063WAT23West"
+    },
+    {
+      "id": "122WAC956",
+      "severity_level": 3,
+      "severity_label": "Flood alert",
+      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
+      "message": "High tides today may lead to flooding. \nFlooding is possible from 5:45PM on 15th May 2026. \nLocations most affected will be coastal roads and footpaths. \nWe are closely monitoring the situation . \nAvoid beaches and coastal promenades, which may be flooded . \nThis message will be updated by 8:00PM on 15 May 2026 or as the situation changes.\n",
+      "river_or_sea": "North Sea",
+      "county": "East Riding of Yorkshire",
+      "ea_area_name": "Yorkshire",
+      "is_tidal": true,
+      "time_raised": "2026-05-15T13:41:14",
+      "time_message_changed": "2026-05-15T13:41:00",
+      "time_severity_changed": "2026-05-15T13:41:00",
+      "lat": 53.714965,
+      "lng": 0.016625000000000008,
+      "bbox": [
+        53.57061,
+        -0.11657,
+        53.85932,
+        0.14982
+      ],
+      "polygon_url": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
+      "target_area_url": "https://check-for-flooding.service.gov.uk/target-area/122WAC956"
+    },
+    {
+      "id": "122WAT957",
+      "severity_level": 3,
+      "severity_label": "Flood alert",
+      "description": "Humber estuary from Spurn Point to Winestead Outfall",
+      "message": "High tides today may lead to flooding. \nFlooding is possible from 5:30pm to 5:45pm on 15th May 2026. \nLocations most affected will be low lying land and roads near rivers or on the coast. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 8:00PM on 15 May 2026 or as the situation changes.\n\n",
+      "river_or_sea": "Humber Estuary, Winestead Drain",
+      "county": "East Riding of Yorkshire",
+      "ea_area_name": "Yorkshire",
+      "is_tidal": true,
+      "time_raised": "2026-05-15T13:41:14",
+      "time_message_changed": "2026-05-15T13:41:00",
+      "time_severity_changed": "2026-05-15T13:41:00",
+      "lat": 53.638725,
+      "lng": 0.07654,
+      "bbox": [
+        53.61319,
+        0.01154,
+        53.66426,
+        0.14154
+      ],
+      "polygon_url": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957/polygon",
+      "target_area_url": "https://check-for-flooding.service.gov.uk/target-area/122WAT957"
     }
   ]
 }
