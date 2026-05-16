@@ -2,10 +2,10 @@
   "meta": {
     "schema_version": 1,
     "source": "https://environment.data.gov.uk/flood-monitoring/id/floods",
-    "generated_at": "2026-05-16T12:00:00.423664+00:00"
+    "generated_at": "2026-05-16T13:52:32.093457+00:00"
   },
   "source_url": "https://environment.data.gov.uk/flood-monitoring/id/floods",
-  "notice_count": 4,
+  "notice_count": 5,
   "notices": [
     {
       "id": "121WAC922",
@@ -54,6 +54,30 @@
       ],
       "polygon_url": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West/polygon",
       "target_area_url": "https://check-for-flooding.service.gov.uk/target-area/063WAT23West"
+    },
+    {
+      "id": "112WATSOM1",
+      "severity_level": 3,
+      "severity_label": "Flood alert",
+      "description": "Somerset coast at Porlock Weir",
+      "message": "High tides tomorrow may lead to flooding. \nFlooding is possible around both high tides (07:45 and 20:00) on Sunday 17 May. \nFlooding may affect locations at Porlock Bay on Sunday 17 May, with low lying land and roads expected to be most affected, particularly around the coastline between Gore Point and Hurlstone Point including Porlock Weir.\n\nThe detailed tidal forecast for those who use it is for a peak level at Hinkley Point. \nThe first forecast high water of 6.10 mAODN is at 07:45, with North-westerly Force 5 winds. \nThe second forecast high water is at 6.26 mAODN at 20:00, with Westerly Force 5 winds. \n(mAODN is height above average sea level.) \nWe are closely monitoring the situation and will update this message for future days if needed. \nAvoid coastal roads, footpaths and carparks, which may be flooded . \nThis message will be updated by 12:00PM on 18 May 2026 or as the situation changes.\n\n",
+      "river_or_sea": "Bristol Channel",
+      "county": "Somerset",
+      "ea_area_name": "Wessex",
+      "is_tidal": true,
+      "time_raised": "2026-05-16T12:52:46",
+      "time_message_changed": "2026-05-16T12:52:00",
+      "time_severity_changed": "2026-05-16T12:52:00",
+      "lat": 51.222265,
+      "lng": -3.60636,
+      "bbox": [
+        51.21263,
+        -3.63433,
+        51.2319,
+        -3.57839
+      ],
+      "polygon_url": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1/polygon",
+      "target_area_url": "https://check-for-flooding.service.gov.uk/target-area/112WATSOM1"
     },
     {
       "id": "122WAC956",
