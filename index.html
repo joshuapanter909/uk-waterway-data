@@ -8,27 +8,28 @@
     a{color:#0f5dd6}
     .feed{padding:1rem 1.25rem;background:#fff;border-radius:.75rem;margin:.75rem 0;box-shadow:0 1px 3px rgba(0,0,0,.06)}
     .meta{font-size:.85rem;color:#5d6b7e;margin:.25rem 0}
+    .note{padding:1rem 1.25rem;background:#fff7e6;border-left:3px solid #d97706;border-radius:.5rem;margin:.75rem 0;color:#7c4a03}
   </style></head><body>
   <h1>uk-waterway-data</h1>
-  <p>Automated mirror of public UK inland-waterway notices.
-    Refreshed periodically from upstream sources.</p>
-  
-            <div class="feed">
-              <h2>CRT navigation notices</h2>
-              <p>UK Canal & River Trust closures, restrictions and advice.</p>
-              <p class="meta">refreshed every 4 hours · 342 entries</p>
-              <p><a href="crt_stoppages.json"><code>crt_stoppages.json</code></a></p>
-            </div>
-            
-            <div class="feed">
-              <h2>EA flood warnings</h2>
-              <p>Environment Agency active flood warnings and alerts.</p>
-              <p class="meta">refreshed hourly · 4 entries</p>
-              <p><a href="ea_floods.json"><code>ea_floods.json</code></a></p>
-            </div>
-            
+  <p>Mirror of UK inland-waterway open data, refreshed periodically from upstream OGL sources.</p>
+
+  <div class="feed">
+    <h2>EA flood warnings</h2>
+    <p>Environment Agency active flood warnings and alerts. Sourced from the Real-Time Flood-Monitoring API under the
+       <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/">Open Government Licence v3.0</a>.</p>
+    <p class="meta">refreshed hourly</p>
+    <p><a href="ea_floods.json"><code>ea_floods.json</code></a></p>
+  </div>
+
+  <div class="note">
+    <strong>CRT mirror withdrawn (2026-05-18).</strong>
+    The Canal &amp; River Trust open-data licence prohibits redistribution for commercial use, so the
+    <code>crt_stoppages.json</code> feed has been taken down. Personal users should consult
+    <a href="https://canalrivertrust.org.uk/notices">canalrivertrust.org.uk/notices</a> directly.
+  </div>
+
   <p style="margin-top:2rem;color:#5d6b7e;font-size:.85rem">
-    This site is a personal mirror, not affiliated with the upstream
-    publishers. Data sources: Canal &amp; River Trust, Environment Agency.
+    This site is a personal mirror, not affiliated with the upstream publisher. Data source: Environment Agency.
+    Contains public sector information licensed under the Open Government Licence v3.0.
   </p>
 </body></html>
