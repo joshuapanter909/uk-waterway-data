@@ -2,11 +2,35 @@
   "meta": {
     "schema_version": 1,
     "source": "https://environment.data.gov.uk/flood-monitoring/id/floods",
-    "generated_at": "2026-05-18T08:51:09.566279+00:00"
+    "generated_at": "2026-05-18T12:44:14.361504+00:00"
   },
   "source_url": "https://environment.data.gov.uk/flood-monitoring/id/floods",
-  "notice_count": 4,
+  "notice_count": 5,
   "notices": [
+    {
+      "id": "114WATFALEST1",
+      "severity_level": 3,
+      "severity_label": "Flood alert",
+      "description": "Tidal Fal Estuary",
+      "message": "High tides this evening may lead to flooding. \nFlooding is possible from 17:00 to 21:00 on Monday. \nAreas particularly at risk include low lying areas in Falmouth, Penryn, Flushing, Mylor Bridge, the A39 at Perranarworthal, Devoran, Calenick, Truro and the A390 at Tresillian. \n\nThe high tide at Falmouth on Monday is at 19:13, times of high water will vary along the coast.  Forecast total high tide level is 2.51mAOD. Expect tide levels along the coast to be between 0.2 and 0.3 metres above tide table level. Strong Force 5 Southerly winds and offshore wave heights of over 1.3m are forecast over the high tide. \n\nCoastal conditions should ease for Tuesday morning’s high tide. \nWe are closely monitoring the situation . \nAvoid coastal roads and low lying roads near rivers, which may be flooded . \nThis message will be updated by 11:00AM on 19 May 2026 or as the situation changes.\n\n",
+      "river_or_sea": "South Cornwall Coast, Tidal Fal Estuary",
+      "county": "Cornwall",
+      "ea_area_name": "Devon, Cornwall and the Isles of Scilly",
+      "is_tidal": true,
+      "time_raised": "2026-05-18T11:30:45",
+      "time_message_changed": "2026-05-18T11:30:00",
+      "time_severity_changed": "2026-05-18T11:30:00",
+      "lat": 50.216635,
+      "lng": -5.03491,
+      "bbox": [
+        50.15025,
+        -5.12237,
+        50.28302,
+        -4.94745
+      ],
+      "polygon_url": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WATFALEST1/polygon",
+      "target_area_url": "https://check-for-flooding.service.gov.uk/target-area/114WATFALEST1"
+    },
     {
       "id": "063WAT23West",
       "severity_level": 3,
@@ -33,17 +57,17 @@
     },
     {
       "id": "112WATSOM1",
-      "severity_level": 3,
-      "severity_label": "Flood alert",
+      "severity_level": 4,
+      "severity_label": "Warning no longer in force",
       "description": "Somerset coast at Porlock Weir",
-      "message": "High tides tomorrow may lead to flooding. \nFlooding is possible around both high tides (07:45 and 20:00) on Sunday 17 May. \nFlooding may affect locations at Porlock Bay on Sunday 17 May, with low lying land and roads expected to be most affected, particularly around the coastline between Gore Point and Hurlstone Point including Porlock Weir.\n\nThe detailed tidal forecast for those who use it is for a peak level at Hinkley Point. \nThe first forecast high water of 6.10 mAODN is at 07:45, with North-westerly Force 5 winds. \nThe second forecast high water is at 6.26 mAODN at 20:00, with Westerly Force 5 winds. \n(mAODN is height above average sea level.) \nWe are closely monitoring the situation and will update this message for future days if needed. \nAvoid coastal roads, footpaths and carparks, which may be flooded . \nThis message will be updated by 12:00PM on 18 May 2026 or as the situation changes.\n\n",
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nTidal conditions are expected to improve and no flooding is expected. Note that water levels remain high for the next few tides but wind conditions have improved. \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nIf you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.  \n\n",
       "river_or_sea": "Bristol Channel",
       "county": "Somerset",
       "ea_area_name": "Wessex",
       "is_tidal": true,
-      "time_raised": "2026-05-16T12:52:46",
-      "time_message_changed": "2026-05-16T12:52:00",
-      "time_severity_changed": "2026-05-16T12:52:00",
+      "time_raised": "2026-05-18T09:59:15",
+      "time_message_changed": "2026-05-18T09:59:00",
+      "time_severity_changed": "2026-05-18T09:59:00",
       "lat": 51.222265,
       "lng": -3.60636,
       "bbox": [
