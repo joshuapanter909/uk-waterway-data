@@ -2,11 +2,35 @@
   "meta": {
     "schema_version": 1,
     "source": "https://environment.data.gov.uk/flood-monitoring/id/floods",
-    "generated_at": "2026-05-18T12:44:14.361504+00:00"
+    "generated_at": "2026-05-18T16:31:41.590011+00:00"
   },
   "source_url": "https://environment.data.gov.uk/flood-monitoring/id/floods",
-  "notice_count": 5,
+  "notice_count": 6,
   "notices": [
+    {
+      "id": "113WACT1B",
+      "severity_level": 3,
+      "severity_label": "Flood alert",
+      "description": "South Devon coast from Start Point to Dawlish Warren",
+      "message": "High tides this evening may lead to flooding. \nFlooding is possible 2 hours either side of high tide on Monday evening. \nAreas particularly at risk include Torbay, Teignmouth, Beesands, Torcross, Slapton and Dawlish.\nThe high tide at Teignmouth on Monday is at 20:45, times of high water will vary along the coast.  Forecast total high tide level is 2.4mAOD, which is 0.28 metres above tide table level.  Force 5 southerly winds and offshore wave heights of over 1m are forecast over the high tide.\nCoastal conditions should ease for Tuesday morning's high tide. \nWe are closely monitoring the situation . \nAvoid beaches and coastal promenades, which may be flooded . \nThis message will be updated by 2:00PM on 19 May 2026 or as the situation changes.\n",
+      "river_or_sea": "South Devon Coast",
+      "county": "Devon, Torbay",
+      "ea_area_name": "Devon, Cornwall and the Isles of Scilly",
+      "is_tidal": true,
+      "time_raised": "2026-05-18T15:09:01",
+      "time_message_changed": "2026-05-18T15:08:00",
+      "time_severity_changed": "2026-05-18T15:08:00",
+      "lat": 50.41235,
+      "lng": -3.5608,
+      "bbox": [
+        50.24331,
+        -3.65841,
+        50.58139,
+        -3.46319
+      ],
+      "polygon_url": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WACT1B/polygon",
+      "target_area_url": "https://check-for-flooding.service.gov.uk/target-area/113WACT1B"
+    },
     {
       "id": "114WATFALEST1",
       "severity_level": 3,
