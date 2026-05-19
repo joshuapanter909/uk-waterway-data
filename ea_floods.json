@@ -2,10 +2,10 @@
   "meta": {
     "schema_version": 1,
     "source": "https://environment.data.gov.uk/flood-monitoring/id/floods",
-    "generated_at": "2026-05-19T05:09:44.375395+00:00"
+    "generated_at": "2026-05-19T10:02:01.970929+00:00"
   },
   "source_url": "https://environment.data.gov.uk/flood-monitoring/id/floods",
-  "notice_count": 4,
+  "notice_count": 3,
   "notices": [
     {
       "id": "113WACT1B",
@@ -57,17 +57,17 @@
     },
     {
       "id": "063WAT23West",
-      "severity_level": 3,
-      "severity_label": "Flood alert",
+      "severity_level": 4,
+      "severity_label": "Warning no longer in force",
       "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
-      "message": "High tides tomorrow morning may lead to flooding. \nFlooding is possible from 4:00 AM to 6:00 AM on 19/05/2026. \nThe forecast high tide at Richmond is 4.60 mAOD at 05:00 AM on 19/05/2026.\n\nWe believe there is a possibility of flooding for Putney Embankment (SW15), Chiswick Mall and Strand on the Green (W4), Thames Bank at Mortlake (SW14), Ranelagh Drive (TW1), Friars Lane and Water Lane (TW9), Riverside and The Embankment at Twickenham, and the Towpath below Teddington Lock. Flooding of properties is not expected.\n\nAstronomical tide levels are peaking. The river flow at Teddington Weir is 25 cubic metres per second and is steady. We anticipate the flows to remain steady for the next five days \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 9:00AM on 19 May 2026 or as the situation changes.\n\n",
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nTidal conditions are expected to improve and no flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nNever drive through flood water,  just 30cm of fast flowing water is enough to move your car. Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.  \n\n",
       "river_or_sea": "River Thames",
       "county": "Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",
       "ea_area_name": "Kent, South London and East Sussex",
       "is_tidal": true,
-      "time_raised": "2026-05-18T18:21:46",
-      "time_message_changed": "2026-05-18T18:21:00",
-      "time_severity_changed": "2026-05-17T18:34:00",
+      "time_raised": "2026-05-19T08:20:54",
+      "time_message_changed": "2026-05-19T08:20:00",
+      "time_severity_changed": "2026-05-19T08:20:00",
       "lat": 51.4594,
       "lng": -0.27243,
       "bbox": [
@@ -78,30 +78,6 @@
       ],
       "polygon_url": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West/polygon",
       "target_area_url": "https://check-for-flooding.service.gov.uk/target-area/063WAT23West"
-    },
-    {
-      "id": "112WATSOM1",
-      "severity_level": 4,
-      "severity_label": "Warning no longer in force",
-      "description": "Somerset coast at Porlock Weir",
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nTidal conditions are expected to improve and no flooding is expected. Note that water levels remain high for the next few tides but wind conditions have improved. \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nIf you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.  \n\n",
-      "river_or_sea": "Bristol Channel",
-      "county": "Somerset",
-      "ea_area_name": "Wessex",
-      "is_tidal": true,
-      "time_raised": "2026-05-18T09:59:15",
-      "time_message_changed": "2026-05-18T09:59:00",
-      "time_severity_changed": "2026-05-18T09:59:00",
-      "lat": 51.222265,
-      "lng": -3.60636,
-      "bbox": [
-        51.21263,
-        -3.63433,
-        51.2319,
-        -3.57839
-      ],
-      "polygon_url": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1/polygon",
-      "target_area_url": "https://check-for-flooding.service.gov.uk/target-area/112WATSOM1"
     }
   ]
 }
