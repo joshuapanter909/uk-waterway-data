@@ -2,9 +2,178 @@
   "meta": {
     "schema_version": 1,
     "source": "https://environment.data.gov.uk/flood-monitoring/id/floods",
-    "generated_at": "2026-05-26T16:50:39.615080+00:00"
+    "generated_at": "2026-05-26T19:25:40.261619+00:00"
   },
   "source_url": "https://environment.data.gov.uk/flood-monitoring/id/floods",
-  "notice_count": 0,
-  "notices": []
+  "notice_count": 7,
+  "notices": [
+    {
+      "id": "033WAF302",
+      "severity_level": 3,
+      "severity_label": "Flood alert",
+      "description": "River Blythe in Warwickshire",
+      "message": "Forecast rising river levels this evening may lead to flooding. \nFlooding is possible on 26 May 2026 . \nLocations most affected will be low lying land and roads near rivers.This flood alert has been issued as heavy rain and thunderstorms have been forecast for this area. There is uncertainty however, over the amount of rainfall expected and their exact location.Locations most affected will be low lying land and roads near rivers. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 11:00AM on 27 May 2026 or as the situation changes.\n",
+      "river_or_sea": "River Blythe",
+      "county": "Solihull, Warwickshire",
+      "ea_area_name": "West Midlands",
+      "is_tidal": false,
+      "time_raised": "2026-05-26T18:52:24",
+      "time_message_changed": "2026-05-26T18:52:00",
+      "time_severity_changed": "2026-05-26T18:52:00",
+      "lat": 52.429050000000004,
+      "lng": -1.74621,
+      "bbox": [
+        52.33949,
+        -1.85751,
+        52.51861,
+        -1.63491
+      ],
+      "polygon_url": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF302/polygon",
+      "target_area_url": "https://check-for-flooding.service.gov.uk/target-area/033WAF302"
+    },
+    {
+      "id": "033WAF330",
+      "severity_level": 3,
+      "severity_label": "Flood alert",
+      "description": "River Stour and Smestow Brook in the Black Country and South Staffordshire",
+      "message": "Forecast rising river levels this evening may lead to flooding. \nFlooding is possible from the evening of 26 May 2026 . \nLocations most affected will be low lying land and roads near rivers. This flood alert has been issued as heavy rain and thunderstorms have been forecast for this area. There is uncertainty however, over the amount of rainfall expected and their exact location. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 11:00AM on 27 May 2026 or as the situation changes.\n",
+      "river_or_sea": "River Stour, Smestow Brook",
+      "county": "Dudley, Sandwell, Staffordshire, Wolverhampton, Worcestershire",
+      "ea_area_name": "West Midlands",
+      "is_tidal": false,
+      "time_raised": "2026-05-26T18:53:39",
+      "time_message_changed": "2026-05-26T18:53:00",
+      "time_severity_changed": "2026-05-26T18:53:00",
+      "lat": 52.514025000000004,
+      "lng": -2.156015,
+      "bbox": [
+        52.42343,
+        -2.27594,
+        52.60462,
+        -2.03609
+      ],
+      "polygon_url": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF330/polygon",
+      "target_area_url": "https://check-for-flooding.service.gov.uk/target-area/033WAF330"
+    },
+    {
+      "id": "033WAF303",
+      "severity_level": 3,
+      "severity_label": "Flood alert",
+      "description": "Upper Tame",
+      "message": "Forecast rising river levels this evening may lead to flooding. \nFlooding is possible from the evening of 26 May 2026 . \nLocations most affected will be low lying land and roads near rivers. This flood alert has been issued as heavy rain and thunderstorms have been forecast for this area. There is uncertainty however, over the amount of rainfall expected and their exact location. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 11:00AM on 27 May 2026 or as the situation changes.\n",
+      "river_or_sea": "River Tame, Ford Brook",
+      "county": "Birmingham, Dudley, Sandwell, Solihull, Walsall, Warwickshire, Wolverhampton",
+      "ea_area_name": "West Midlands",
+      "is_tidal": false,
+      "time_raised": "2026-05-26T18:53:31",
+      "time_message_changed": "2026-05-26T18:53:00",
+      "time_severity_changed": "2026-05-26T18:53:00",
+      "lat": 52.55708,
+      "lng": -1.89482,
+      "bbox": [
+        52.47278,
+        -2.0963,
+        52.64138,
+        -1.69334
+      ],
+      "polygon_url": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF303/polygon",
+      "target_area_url": "https://check-for-flooding.service.gov.uk/target-area/033WAF303"
+    },
+    {
+      "id": "034WAF429",
+      "severity_level": 3,
+      "severity_label": "Flood alert",
+      "description": "River Trent Tributaries in Nottinghamshire",
+      "message": "Rising river levels today may lead to flooding. \nFlooding is possible on 26 May 2026 . \nAreas most at risk are low-lying agricultural land and roads around the tributaries of the River Trent in Nottinghamshire, the River Greet, Potwell Dyke, Carr Dyke, Dover Beck, Cocker Beck, Thurgarton Beck, Fairham Brook and others. River levels may rise rapidly due to the nature of the catchment. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water & plan driving routes to avoid low-lying roads near rivers, \nwhich may be. \nThis message will be updated by 10:00AM on 27 May 2026 or as the situation changes.\n",
+      "river_or_sea": "River Trent, River Greet, Potwell Dyke, Carr Dyke, Dover Beck, Cocker Beck, Thurgarton Beck, Fairham Brook",
+      "county": "Nottingham, Nottinghamshire",
+      "ea_area_name": "East Midlands",
+      "is_tidal": false,
+      "time_raised": "2026-05-26T19:36:10",
+      "time_message_changed": "2026-05-26T19:36:00",
+      "time_severity_changed": "2026-05-26T19:36:00",
+      "lat": 52.977855000000005,
+      "lng": -1.030345,
+      "bbox": [
+        52.82856,
+        -1.19542,
+        53.12715,
+        -0.86527
+      ],
+      "polygon_url": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF429/polygon",
+      "target_area_url": "https://check-for-flooding.service.gov.uk/target-area/034WAF429"
+    },
+    {
+      "id": "033WAF340",
+      "severity_level": 3,
+      "severity_label": "Flood alert",
+      "description": "Upper Tame at Sandwell Valley",
+      "message": "Forecast rising river levels this evening may lead to flooding. \nFlooding is possible from the evening of 26 May 2026 . \nLocations most affected will be low lying land and roads near rivers. This flood alert has been issued as heavy rain and thunderstorms have been forecast for this area. There is uncertainty however, over the amount of rainfall expected and their exact location. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 11:00AM on 27 May 2026 or as the situation changes.\n",
+      "river_or_sea": null,
+      "county": "Birmingham, Sandwell",
+      "ea_area_name": "West Midlands",
+      "is_tidal": false,
+      "time_raised": "2026-05-26T18:53:43",
+      "time_message_changed": "2026-05-26T18:53:00",
+      "time_severity_changed": "2026-05-26T18:53:00",
+      "lat": 52.533100000000005,
+      "lng": -1.953085,
+      "bbox": [
+        52.52901,
+        -1.96189,
+        52.53719,
+        -1.94428
+      ],
+      "polygon_url": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF340/polygon",
+      "target_area_url": "https://check-for-flooding.service.gov.uk/target-area/033WAF340"
+    },
+    {
+      "id": "033WAF301",
+      "severity_level": 3,
+      "severity_label": "Flood alert",
+      "description": "River Cole",
+      "message": "Forecast rising river levels this evening may lead to flooding. \nFlooding is possible from the evening of 26 May 2026 . \nLocations most affected will be low lying land and roads near rivers. This flood alert has been issued as heavy rain and thunderstorms have been forecast for this area. There is uncertainty however, over the amount of rainfall expected and their exact location. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 11:00AM on 27 May 2026 or as the situation changes.\n",
+      "river_or_sea": "River Cole",
+      "county": "Birmingham, Solihull, Warwickshire, Worcestershire",
+      "ea_area_name": "West Midlands",
+      "is_tidal": false,
+      "time_raised": "2026-05-26T18:53:28",
+      "time_message_changed": "2026-05-26T18:53:00",
+      "time_severity_changed": "2026-05-26T18:53:00",
+      "lat": 52.438765000000004,
+      "lng": -1.77665,
+      "bbox": [
+        52.35763,
+        -1.90389,
+        52.5199,
+        -1.64941
+      ],
+      "polygon_url": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF301/polygon",
+      "target_area_url": "https://check-for-flooding.service.gov.uk/target-area/033WAF301"
+    },
+    {
+      "id": "033WAF300",
+      "severity_level": 3,
+      "severity_label": "Flood alert",
+      "description": "River Rea",
+      "message": "Forecast rising river levels this evening may lead to flooding. \nFlooding is possible from the evening of 26 May 2026 . \nLocations most affected will be low lying land and roads near rivers. This flood alert has been issued as heavy rain and thunderstorms have been forecast for this area. There is uncertainty however, over the amount of rainfall expected and their exact location. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 11:00AM on 27 May 2026 or as the situation changes.\n",
+      "river_or_sea": "River Rea",
+      "county": "Birmingham",
+      "ea_area_name": "West Midlands",
+      "is_tidal": false,
+      "time_raised": "2026-05-26T18:53:33",
+      "time_message_changed": "2026-05-26T18:53:00",
+      "time_severity_changed": "2026-05-26T18:53:00",
+      "lat": 52.449095,
+      "lng": -1.9275,
+      "bbox": [
+        52.3937,
+        -2.00461,
+        52.50449,
+        -1.85039
+      ],
+      "polygon_url": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF300/polygon",
+      "target_area_url": "https://check-for-flooding.service.gov.uk/target-area/033WAF300"
+    }
+  ]
 }
