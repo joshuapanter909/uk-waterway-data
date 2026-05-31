@@ -2,7 +2,7 @@
   "meta": {
     "schema_version": 1,
     "source": "https://canalrivertrust.org.uk/api/stoppage/notices",
-    "generated_at": "2026-05-31T17:04:09.949982+00:00"
+    "generated_at": "2026-05-31T20:57:32.211967+00:00"
   },
   "filters": {
     "types": [
@@ -6618,6 +6618,47 @@
       }
     },
     {
+      "id": "019e3f27-c95a-7b51-bafa-8048895bcaaf",
+      "title": "Towpath inspection at Bridge 14, Salmon Lane Bridge",
+      "summary": null,
+      "type_id": 3,
+      "type_name": "Towpath Closure",
+      "reason_id": 5,
+      "reason_name": "Inspections",
+      "programme_id": 1,
+      "programme_name": null,
+      "state": "Published",
+      "start": "2026-06-01T07:00:00+00:00",
+      "end": "2026-06-01T16:00:00+00:00",
+      "region": "London and South East",
+      "waterways": "Regent's Canal",
+      "path": "/notices/019e3f27-c95a-7b51-bafa-8048895bcaaf",
+      "url": "https://canalrivertrust.org.uk/notices/019e3f27-c95a-7b51-bafa-8048895bcaaf",
+      "lng": -0.0355,
+      "lat": 51.5141,
+      "geometry_points": [
+        [
+          -0.0355,
+          51.5141
+        ]
+      ],
+      "image": null,
+      "raw": {
+        "id": "019e3f27-c95a-7b51-bafa-8048895bcaaf",
+        "title": "Towpath inspection at Bridge 14, Salmon Lane Bridge",
+        "region": "London and South East",
+        "waterways": "Regent's Canal",
+        "path": "/notices/019e3f27-c95a-7b51-bafa-8048895bcaaf",
+        "typeId": 3,
+        "reasonId": 5,
+        "programmeId": 1,
+        "start": "2026-06-01T07:00:00+00:00",
+        "end": "2026-06-01T16:00:00+00:00",
+        "state": "Published",
+        "image": null
+      }
+    },
+    {
       "id": "019d6d90-3d96-76b2-bb1f-2c6d0f97a837",
       "title": "Lock 45, Kents Lock - Offside",
       "summary": null,
@@ -6649,6 +6690,47 @@
         "region": "North West",
         "waterways": "Trent & Mersey Canal",
         "path": "/notices/019d6d90-3d96-76b2-bb1f-2c6d0f97a837",
+        "typeId": 4,
+        "reasonId": 6,
+        "programmeId": 1,
+        "start": "2026-06-01T07:00:00+00:00",
+        "end": "2026-07-10T15:30:00+00:00",
+        "state": "Published",
+        "image": null
+      }
+    },
+    {
+      "id": "019d6db1-2f51-7fbe-821f-f504d0b93646",
+      "title": "Dean Lock",
+      "summary": null,
+      "type_id": 4,
+      "type_name": "Advice",
+      "reason_id": 6,
+      "reason_name": "Maintenance",
+      "programme_id": 1,
+      "programme_name": null,
+      "state": "Published",
+      "start": "2026-06-01T07:00:00+00:00",
+      "end": "2026-07-10T15:30:00+00:00",
+      "region": "North West",
+      "waterways": "Leeds & Liverpool Canal",
+      "path": "/notices/019d6db1-2f51-7fbe-821f-f504d0b93646",
+      "url": "https://canalrivertrust.org.uk/notices/019d6db1-2f51-7fbe-821f-f504d0b93646",
+      "lng": -2.7032,
+      "lat": 53.562,
+      "geometry_points": [
+        [
+          -2.7032,
+          53.562
+        ]
+      ],
+      "image": null,
+      "raw": {
+        "id": "019d6db1-2f51-7fbe-821f-f504d0b93646",
+        "title": "Dean Lock",
+        "region": "North West",
+        "waterways": "Leeds & Liverpool Canal",
+        "path": "/notices/019d6db1-2f51-7fbe-821f-f504d0b93646",
         "typeId": 4,
         "reasonId": 6,
         "programmeId": 1,
@@ -6704,47 +6786,6 @@
       }
     },
     {
-      "id": "019d76da-d9ec-796a-a177-0b2ce9312ad6",
-      "title": "Lock 5 Diglis.",
-      "summary": null,
-      "type_id": 4,
-      "type_name": "Advice",
-      "reason_id": 12,
-      "reason_name": "Information",
-      "programme_id": 1,
-      "programme_name": null,
-      "state": "Published",
-      "start": "2026-06-01T07:00:00+00:00",
-      "end": "2026-08-28T17:00:00+00:00",
-      "region": "Wales and South West",
-      "waterways": "River Severn Navigation",
-      "path": "/notices/019d76da-d9ec-796a-a177-0b2ce9312ad6",
-      "url": "https://canalrivertrust.org.uk/notices/019d76da-d9ec-796a-a177-0b2ce9312ad6",
-      "lng": -2.2248,
-      "lat": 52.178,
-      "geometry_points": [
-        [
-          -2.2248,
-          52.178
-        ]
-      ],
-      "image": null,
-      "raw": {
-        "id": "019d76da-d9ec-796a-a177-0b2ce9312ad6",
-        "title": "Lock 5 Diglis.",
-        "region": "Wales and South West",
-        "waterways": "River Severn Navigation",
-        "path": "/notices/019d76da-d9ec-796a-a177-0b2ce9312ad6",
-        "typeId": 4,
-        "reasonId": 12,
-        "programmeId": 1,
-        "start": "2026-06-01T07:00:00+00:00",
-        "end": "2026-08-28T17:00:00+00:00",
-        "state": "Published",
-        "image": null
-      }
-    },
-    {
       "id": "019e7326-a19d-77f2-8c99-7bbde12d73f2",
       "title": "Towpath between Western Road Bridge and Asylum Bridge on the Soho Loop, Birmingham",
       "summary": null,
@@ -6790,83 +6831,83 @@
       }
     },
     {
-      "id": "019d6db1-2f51-7fbe-821f-f504d0b93646",
-      "title": "Dean Lock",
+      "id": "019d76da-d9ec-796a-a177-0b2ce9312ad6",
+      "title": "Lock 5 Diglis.",
       "summary": null,
       "type_id": 4,
       "type_name": "Advice",
-      "reason_id": 6,
-      "reason_name": "Maintenance",
+      "reason_id": 12,
+      "reason_name": "Information",
       "programme_id": 1,
       "programme_name": null,
       "state": "Published",
       "start": "2026-06-01T07:00:00+00:00",
-      "end": "2026-07-10T15:30:00+00:00",
-      "region": "North West",
-      "waterways": "Leeds & Liverpool Canal",
-      "path": "/notices/019d6db1-2f51-7fbe-821f-f504d0b93646",
-      "url": "https://canalrivertrust.org.uk/notices/019d6db1-2f51-7fbe-821f-f504d0b93646",
-      "lng": -2.7032,
-      "lat": 53.562,
+      "end": "2026-08-28T17:00:00+00:00",
+      "region": "Wales and South West",
+      "waterways": "River Severn Navigation",
+      "path": "/notices/019d76da-d9ec-796a-a177-0b2ce9312ad6",
+      "url": "https://canalrivertrust.org.uk/notices/019d76da-d9ec-796a-a177-0b2ce9312ad6",
+      "lng": -2.2248,
+      "lat": 52.178,
       "geometry_points": [
         [
-          -2.7032,
-          53.562
+          -2.2248,
+          52.178
         ]
       ],
       "image": null,
       "raw": {
-        "id": "019d6db1-2f51-7fbe-821f-f504d0b93646",
-        "title": "Dean Lock",
-        "region": "North West",
-        "waterways": "Leeds & Liverpool Canal",
-        "path": "/notices/019d6db1-2f51-7fbe-821f-f504d0b93646",
+        "id": "019d76da-d9ec-796a-a177-0b2ce9312ad6",
+        "title": "Lock 5 Diglis.",
+        "region": "Wales and South West",
+        "waterways": "River Severn Navigation",
+        "path": "/notices/019d76da-d9ec-796a-a177-0b2ce9312ad6",
         "typeId": 4,
-        "reasonId": 6,
+        "reasonId": 12,
         "programmeId": 1,
         "start": "2026-06-01T07:00:00+00:00",
-        "end": "2026-07-10T15:30:00+00:00",
+        "end": "2026-08-28T17:00:00+00:00",
         "state": "Published",
         "image": null
       }
     },
     {
-      "id": "019e3f27-c95a-7b51-bafa-8048895bcaaf",
-      "title": "Towpath inspection at Bridge 14, Salmon Lane Bridge",
+      "id": "019d8716-e843-7364-8637-2d6b08fd2058",
+      "title": "Penarth Feeder - track adjacent to the feeder and River Severn",
       "summary": null,
-      "type_id": 3,
-      "type_name": "Towpath Closure",
-      "reason_id": 5,
-      "reason_name": "Inspections",
+      "type_id": 8,
+      "type_name": "Towpath Restriction",
+      "reason_id": 6,
+      "reason_name": "Maintenance",
       "programme_id": 1,
       "programme_name": null,
       "state": "Published",
-      "start": "2026-06-01T07:00:00+00:00",
-      "end": "2026-06-01T16:00:00+00:00",
-      "region": "London and South East",
-      "waterways": "Regent's Canal",
-      "path": "/notices/019e3f27-c95a-7b51-bafa-8048895bcaaf",
-      "url": "https://canalrivertrust.org.uk/notices/019e3f27-c95a-7b51-bafa-8048895bcaaf",
-      "lng": -0.0355,
-      "lat": 51.5141,
+      "start": "2026-06-01T06:00:00+00:00",
+      "end": "2026-06-05T16:00:00+00:00",
+      "region": "West Midlands",
+      "waterways": "Montgomery Canal",
+      "path": "/notices/019d8716-e843-7364-8637-2d6b08fd2058",
+      "url": "https://canalrivertrust.org.uk/notices/019d8716-e843-7364-8637-2d6b08fd2058",
+      "lng": -3.2706,
+      "lat": 52.5282,
       "geometry_points": [
         [
-          -0.0355,
-          51.5141
+          -3.2706,
+          52.5282
         ]
       ],
       "image": null,
       "raw": {
-        "id": "019e3f27-c95a-7b51-bafa-8048895bcaaf",
-        "title": "Towpath inspection at Bridge 14, Salmon Lane Bridge",
-        "region": "London and South East",
-        "waterways": "Regent's Canal",
-        "path": "/notices/019e3f27-c95a-7b51-bafa-8048895bcaaf",
-        "typeId": 3,
-        "reasonId": 5,
+        "id": "019d8716-e843-7364-8637-2d6b08fd2058",
+        "title": "Penarth Feeder - track adjacent to the feeder and River Severn",
+        "region": "West Midlands",
+        "waterways": "Montgomery Canal",
+        "path": "/notices/019d8716-e843-7364-8637-2d6b08fd2058",
+        "typeId": 8,
+        "reasonId": 6,
         "programmeId": 1,
-        "start": "2026-06-01T07:00:00+00:00",
-        "end": "2026-06-01T16:00:00+00:00",
+        "start": "2026-06-01T06:00:00+00:00",
+        "end": "2026-06-05T16:00:00+00:00",
         "state": "Published",
         "image": null
       }
@@ -6953,47 +6994,6 @@
         "programmeId": 1,
         "start": "2026-06-01T06:00:00+00:00",
         "end": "2026-06-30T16:00:00+00:00",
-        "state": "Published",
-        "image": null
-      }
-    },
-    {
-      "id": "019d8716-e843-7364-8637-2d6b08fd2058",
-      "title": "Penarth Feeder - track adjacent to the feeder and River Severn",
-      "summary": null,
-      "type_id": 8,
-      "type_name": "Towpath Restriction",
-      "reason_id": 6,
-      "reason_name": "Maintenance",
-      "programme_id": 1,
-      "programme_name": null,
-      "state": "Published",
-      "start": "2026-06-01T06:00:00+00:00",
-      "end": "2026-06-05T16:00:00+00:00",
-      "region": "West Midlands",
-      "waterways": "Montgomery Canal",
-      "path": "/notices/019d8716-e843-7364-8637-2d6b08fd2058",
-      "url": "https://canalrivertrust.org.uk/notices/019d8716-e843-7364-8637-2d6b08fd2058",
-      "lng": -3.2706,
-      "lat": 52.5282,
-      "geometry_points": [
-        [
-          -3.2706,
-          52.5282
-        ]
-      ],
-      "image": null,
-      "raw": {
-        "id": "019d8716-e843-7364-8637-2d6b08fd2058",
-        "title": "Penarth Feeder - track adjacent to the feeder and River Severn",
-        "region": "West Midlands",
-        "waterways": "Montgomery Canal",
-        "path": "/notices/019d8716-e843-7364-8637-2d6b08fd2058",
-        "typeId": 8,
-        "reasonId": 6,
-        "programmeId": 1,
-        "start": "2026-06-01T06:00:00+00:00",
-        "end": "2026-06-05T16:00:00+00:00",
         "state": "Published",
         "image": null
       }
@@ -8427,42 +8427,46 @@
       }
     },
     {
-      "id": "019e641d-41a9-7c2d-8a41-458564e96309",
-      "title": "Information - Elsan Flush out of order - Brentford Customer Service Facilities",
+      "id": "019e4f0f-af5a-7a17-bd3a-99eabb14204d",
+      "title": "Towpath Improvement - Bingley 5 Rise to 3 Rise",
       "summary": null,
-      "type_id": 10,
-      "type_name": "Customer Service Facility",
-      "reason_id": 12,
-      "reason_name": "Information",
+      "type_id": 8,
+      "type_name": "Towpath Restriction",
+      "reason_id": 2,
+      "reason_name": "3rd Party Works",
       "programme_id": 1,
       "programme_name": null,
       "state": "Published",
       "start": "2026-05-26T07:00:00+00:00",
-      "end": null,
-      "region": "London and South East",
-      "waterways": "Grand Union Canal",
-      "path": "/notices/019e641d-41a9-7c2d-8a41-458564e96309",
-      "url": "https://canalrivertrust.org.uk/notices/019e641d-41a9-7c2d-8a41-458564e96309",
-      "lng": -0.312,
-      "lat": 51.4838,
+      "end": "2026-07-07T16:00:00+00:00",
+      "region": "Yorkshire and North East",
+      "waterways": "Leeds & Liverpool Canal",
+      "path": "/notices/019e4f0f-af5a-7a17-bd3a-99eabb14204d",
+      "url": "https://canalrivertrust.org.uk/notices/019e4f0f-af5a-7a17-bd3a-99eabb14204d",
+      "lng": -1.8381,
+      "lat": 53.8562,
       "geometry_points": [
         [
-          -0.312,
-          51.4838
+          -1.8381,
+          53.8562
+        ],
+        [
+          -1.8386,
+          53.8512
         ]
       ],
       "image": null,
       "raw": {
-        "id": "019e641d-41a9-7c2d-8a41-458564e96309",
-        "title": "Information - Elsan Flush out of order - Brentford Customer Service Facilities",
-        "region": "London and South East",
-        "waterways": "Grand Union Canal",
-        "path": "/notices/019e641d-41a9-7c2d-8a41-458564e96309",
-        "typeId": 10,
-        "reasonId": 12,
+        "id": "019e4f0f-af5a-7a17-bd3a-99eabb14204d",
+        "title": "Towpath Improvement - Bingley 5 Rise to 3 Rise",
+        "region": "Yorkshire and North East",
+        "waterways": "Leeds & Liverpool Canal",
+        "path": "/notices/019e4f0f-af5a-7a17-bd3a-99eabb14204d",
+        "typeId": 8,
+        "reasonId": 2,
         "programmeId": 1,
         "start": "2026-05-26T07:00:00+00:00",
-        "end": null,
+        "end": "2026-07-07T16:00:00+00:00",
         "state": "Published",
         "image": null
       }
@@ -8504,51 +8508,6 @@
         "programmeId": 1,
         "start": "2026-05-26T07:00:00+00:00",
         "end": "2026-06-08T16:00:00+00:00",
-        "state": "Published",
-        "image": null
-      }
-    },
-    {
-      "id": "019e3a46-72ff-7ac8-b319-4319af2759a4",
-      "title": "Between Bridge 238B Elizabeth Jennings Way and Bridge 239A Frenchay Road",
-      "summary": null,
-      "type_id": 2,
-      "type_name": "Navigation Restriction",
-      "reason_id": 10,
-      "reason_name": "Vegetation",
-      "programme_id": 1,
-      "programme_name": null,
-      "state": "Published",
-      "start": "2026-05-26T07:00:00+00:00",
-      "end": null,
-      "region": "London and South East",
-      "waterways": "Oxford Canal",
-      "path": "/notices/019e3a46-72ff-7ac8-b319-4319af2759a4",
-      "url": "https://canalrivertrust.org.uk/notices/019e3a46-72ff-7ac8-b319-4319af2759a4",
-      "lng": -1.2721,
-      "lat": 51.773,
-      "geometry_points": [
-        [
-          -1.2721,
-          51.773
-        ],
-        [
-          -1.2705,
-          51.7703
-        ]
-      ],
-      "image": null,
-      "raw": {
-        "id": "019e3a46-72ff-7ac8-b319-4319af2759a4",
-        "title": "Between Bridge 238B Elizabeth Jennings Way and Bridge 239A Frenchay Road",
-        "region": "London and South East",
-        "waterways": "Oxford Canal",
-        "path": "/notices/019e3a46-72ff-7ac8-b319-4319af2759a4",
-        "typeId": 2,
-        "reasonId": 10,
-        "programmeId": 1,
-        "start": "2026-05-26T07:00:00+00:00",
-        "end": null,
         "state": "Published",
         "image": null
       }
@@ -8599,46 +8558,87 @@
       }
     },
     {
-      "id": "019e4f0f-af5a-7a17-bd3a-99eabb14204d",
-      "title": "Towpath Improvement - Bingley 5 Rise to 3 Rise",
+      "id": "019e3a46-72ff-7ac8-b319-4319af2759a4",
+      "title": "Between Bridge 238B Elizabeth Jennings Way and Bridge 239A Frenchay Road",
       "summary": null,
-      "type_id": 8,
-      "type_name": "Towpath Restriction",
-      "reason_id": 2,
-      "reason_name": "3rd Party Works",
+      "type_id": 2,
+      "type_name": "Navigation Restriction",
+      "reason_id": 10,
+      "reason_name": "Vegetation",
       "programme_id": 1,
       "programme_name": null,
       "state": "Published",
       "start": "2026-05-26T07:00:00+00:00",
-      "end": "2026-07-07T16:00:00+00:00",
-      "region": "Yorkshire and North East",
-      "waterways": "Leeds & Liverpool Canal",
-      "path": "/notices/019e4f0f-af5a-7a17-bd3a-99eabb14204d",
-      "url": "https://canalrivertrust.org.uk/notices/019e4f0f-af5a-7a17-bd3a-99eabb14204d",
-      "lng": -1.8381,
-      "lat": 53.8562,
+      "end": null,
+      "region": "London and South East",
+      "waterways": "Oxford Canal",
+      "path": "/notices/019e3a46-72ff-7ac8-b319-4319af2759a4",
+      "url": "https://canalrivertrust.org.uk/notices/019e3a46-72ff-7ac8-b319-4319af2759a4",
+      "lng": -1.2721,
+      "lat": 51.773,
       "geometry_points": [
         [
-          -1.8381,
-          53.8562
+          -1.2721,
+          51.773
         ],
         [
-          -1.8386,
-          53.8512
+          -1.2705,
+          51.7703
         ]
       ],
       "image": null,
       "raw": {
-        "id": "019e4f0f-af5a-7a17-bd3a-99eabb14204d",
-        "title": "Towpath Improvement - Bingley 5 Rise to 3 Rise",
-        "region": "Yorkshire and North East",
-        "waterways": "Leeds & Liverpool Canal",
-        "path": "/notices/019e4f0f-af5a-7a17-bd3a-99eabb14204d",
-        "typeId": 8,
-        "reasonId": 2,
+        "id": "019e3a46-72ff-7ac8-b319-4319af2759a4",
+        "title": "Between Bridge 238B Elizabeth Jennings Way and Bridge 239A Frenchay Road",
+        "region": "London and South East",
+        "waterways": "Oxford Canal",
+        "path": "/notices/019e3a46-72ff-7ac8-b319-4319af2759a4",
+        "typeId": 2,
+        "reasonId": 10,
         "programmeId": 1,
         "start": "2026-05-26T07:00:00+00:00",
-        "end": "2026-07-07T16:00:00+00:00",
+        "end": null,
+        "state": "Published",
+        "image": null
+      }
+    },
+    {
+      "id": "019e641d-41a9-7c2d-8a41-458564e96309",
+      "title": "Information - Elsan Flush out of order - Brentford Customer Service Facilities",
+      "summary": null,
+      "type_id": 10,
+      "type_name": "Customer Service Facility",
+      "reason_id": 12,
+      "reason_name": "Information",
+      "programme_id": 1,
+      "programme_name": null,
+      "state": "Published",
+      "start": "2026-05-26T07:00:00+00:00",
+      "end": null,
+      "region": "London and South East",
+      "waterways": "Grand Union Canal",
+      "path": "/notices/019e641d-41a9-7c2d-8a41-458564e96309",
+      "url": "https://canalrivertrust.org.uk/notices/019e641d-41a9-7c2d-8a41-458564e96309",
+      "lng": -0.312,
+      "lat": 51.4838,
+      "geometry_points": [
+        [
+          -0.312,
+          51.4838
+        ]
+      ],
+      "image": null,
+      "raw": {
+        "id": "019e641d-41a9-7c2d-8a41-458564e96309",
+        "title": "Information - Elsan Flush out of order - Brentford Customer Service Facilities",
+        "region": "London and South East",
+        "waterways": "Grand Union Canal",
+        "path": "/notices/019e641d-41a9-7c2d-8a41-458564e96309",
+        "typeId": 10,
+        "reasonId": 12,
+        "programmeId": 1,
+        "start": "2026-05-26T07:00:00+00:00",
+        "end": null,
         "state": "Published",
         "image": null
       }
@@ -8857,51 +8857,6 @@
       }
     },
     {
-      "id": "019dcf79-f5c1-753d-b91e-30d1ac882fc7",
-      "title": "Norish British Steel Bridge to Woodside Bridge, Pedmore Rd, Dudley, Brierley Hill ",
-      "summary": null,
-      "type_id": 4,
-      "type_name": "Advice",
-      "reason_id": 2,
-      "reason_name": "3rd Party Works",
-      "programme_id": 1,
-      "programme_name": null,
-      "state": "Published",
-      "start": "2026-05-22T07:00:00+00:00",
-      "end": "2026-07-24T16:00:00+00:00",
-      "region": "West Midlands",
-      "waterways": "Dudley No 1 Canal",
-      "path": "/notices/019dcf79-f5c1-753d-b91e-30d1ac882fc7",
-      "url": "https://canalrivertrust.org.uk/notices/019dcf79-f5c1-753d-b91e-30d1ac882fc7",
-      "lng": -2.1127,
-      "lat": 52.4888,
-      "geometry_points": [
-        [
-          -2.1127,
-          52.4888
-        ],
-        [
-          -2.1068,
-          52.4904
-        ]
-      ],
-      "image": null,
-      "raw": {
-        "id": "019dcf79-f5c1-753d-b91e-30d1ac882fc7",
-        "title": "Norish British Steel Bridge to Woodside Bridge, Pedmore Rd, Dudley, Brierley Hill ",
-        "region": "West Midlands",
-        "waterways": "Dudley No 1 Canal",
-        "path": "/notices/019dcf79-f5c1-753d-b91e-30d1ac882fc7",
-        "typeId": 4,
-        "reasonId": 2,
-        "programmeId": 1,
-        "start": "2026-05-22T07:00:00+00:00",
-        "end": "2026-07-24T16:00:00+00:00",
-        "state": "Published",
-        "image": null
-      }
-    },
-    {
       "id": "019e3aac-632b-7f21-833f-cdf8145f4af7",
       "title": "Norish British Steel Bridge to Woodside Bridge, Brierley Hill, Dudley ",
       "summary": null,
@@ -8942,6 +8897,51 @@
         "programmeId": 1,
         "start": "2026-05-22T07:00:00+00:00",
         "end": "2026-07-22T16:00:00+00:00",
+        "state": "Published",
+        "image": null
+      }
+    },
+    {
+      "id": "019dcf79-f5c1-753d-b91e-30d1ac882fc7",
+      "title": "Norish British Steel Bridge to Woodside Bridge, Pedmore Rd, Dudley, Brierley Hill ",
+      "summary": null,
+      "type_id": 4,
+      "type_name": "Advice",
+      "reason_id": 2,
+      "reason_name": "3rd Party Works",
+      "programme_id": 1,
+      "programme_name": null,
+      "state": "Published",
+      "start": "2026-05-22T07:00:00+00:00",
+      "end": "2026-07-24T16:00:00+00:00",
+      "region": "West Midlands",
+      "waterways": "Dudley No 1 Canal",
+      "path": "/notices/019dcf79-f5c1-753d-b91e-30d1ac882fc7",
+      "url": "https://canalrivertrust.org.uk/notices/019dcf79-f5c1-753d-b91e-30d1ac882fc7",
+      "lng": -2.1127,
+      "lat": 52.4888,
+      "geometry_points": [
+        [
+          -2.1127,
+          52.4888
+        ],
+        [
+          -2.1068,
+          52.4904
+        ]
+      ],
+      "image": null,
+      "raw": {
+        "id": "019dcf79-f5c1-753d-b91e-30d1ac882fc7",
+        "title": "Norish British Steel Bridge to Woodside Bridge, Pedmore Rd, Dudley, Brierley Hill ",
+        "region": "West Midlands",
+        "waterways": "Dudley No 1 Canal",
+        "path": "/notices/019dcf79-f5c1-753d-b91e-30d1ac882fc7",
+        "typeId": 4,
+        "reasonId": 2,
+        "programmeId": 1,
+        "start": "2026-05-22T07:00:00+00:00",
+        "end": "2026-07-24T16:00:00+00:00",
         "state": "Published",
         "image": null
       }
@@ -10528,7 +10528,7 @@
       "reason_name": "Information",
       "programme_id": 1,
       "programme_name": null,
-      "state": "Published",
+      "state": "Completed",
       "start": "2026-04-24T07:00:00+00:00",
       "end": "2026-05-31T17:00:00+00:00",
       "region": "Wales and South West",
@@ -10555,7 +10555,7 @@
         "programmeId": 1,
         "start": "2026-04-24T07:00:00+00:00",
         "end": "2026-05-31T17:00:00+00:00",
-        "state": "Published",
+        "state": "Completed",
         "image": null
       }
     },
@@ -11175,7 +11175,7 @@
       "reason_name": "3rd Party Works",
       "programme_id": 1,
       "programme_name": null,
-      "state": "Published",
+      "state": "Completed",
       "start": "2026-04-06T06:00:00+00:00",
       "end": "2026-05-31T17:00:00+00:00",
       "region": "West Midlands",
@@ -11206,7 +11206,7 @@
         "programmeId": 1,
         "start": "2026-04-06T06:00:00+00:00",
         "end": "2026-05-31T17:00:00+00:00",
-        "state": "Published",
+        "state": "Completed",
         "image": null
       }
     },
