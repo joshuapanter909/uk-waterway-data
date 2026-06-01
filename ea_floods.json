@@ -2,9 +2,34 @@
   "meta": {
     "schema_version": 1,
     "source": "https://environment.data.gov.uk/flood-monitoring/id/floods",
-    "generated_at": "2026-06-01T18:45:37.201472+00:00"
+    "generated_at": "2026-06-01T22:14:55.630706+00:00"
   },
   "source_url": "https://environment.data.gov.uk/flood-monitoring/id/floods",
-  "notice_count": 0,
-  "notices": []
+  "notice_count": 1,
+  "notices": [
+    {
+      "id": "033WAF312",
+      "severity_level": 3,
+      "severity_label": "Flood alert",
+      "description": "River Sow and River Penk",
+      "message": "Rising river levels today may lead to flooding. \nFlooding is possible from the evening of 01 June 2026 . \nLocations most affected will be low lying land and roads near rivers. Flooding may affect low-lying land and roads adjacent to the River Sow between Great Bridgeford and Shugborough, the River Penk between Coven and Stafford, the Sandyford Brook, the Rising Brook, the Ridings Brook and the Saredon Brook. \nWe are monitoring rainfall and river levels . \nNever drive through flood water,  just 30cm of fast flowing water is enough to move your car . Avoid low lying roads near rivers, which may be flooded. \nThis message will be updated by 11:00AM on 02 June 2026 or as the situation changes.\n",
+      "river_or_sea": "Sandyford Brook, Ridings Brook, Saredon Brook",
+      "county": "Staffordshire, Wolverhampton",
+      "ea_area_name": "West Midlands",
+      "is_tidal": false,
+      "time_raised": "2026-06-01T20:47:37",
+      "time_message_changed": "2026-06-01T20:47:00",
+      "time_severity_changed": "2026-06-01T20:47:00",
+      "lat": 52.788714999999996,
+      "lng": -2.16906,
+      "bbox": [
+        52.60084,
+        -2.35021,
+        52.97659,
+        -1.98791
+      ],
+      "polygon_url": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF312/polygon",
+      "target_area_url": "https://check-for-flooding.service.gov.uk/target-area/033WAF312"
+    }
+  ]
 }
