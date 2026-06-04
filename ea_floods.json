@@ -2,10 +2,10 @@
   "meta": {
     "schema_version": 1,
     "source": "https://environment.data.gov.uk/flood-monitoring/id/floods",
-    "generated_at": "2026-06-04T12:11:12.770307+00:00"
+    "generated_at": "2026-06-04T16:27:05.350694+00:00"
   },
   "source_url": "https://environment.data.gov.uk/flood-monitoring/id/floods",
-  "notice_count": 1,
+  "notice_count": 2,
   "notices": [
     {
       "id": "011WAFDW",
@@ -30,6 +30,30 @@
       ],
       "polygon_url": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW/polygon",
       "target_area_url": "https://check-for-flooding.service.gov.uk/target-area/011WAFDW"
+    },
+    {
+      "id": "112WATSOM1",
+      "severity_level": 3,
+      "severity_label": "Flood alert",
+      "description": "Somerset coast at Porlock Weir",
+      "message": "High tides this evening may lead to flooding. \nFlooding is possible around 21:00 on Thursday 04 June \nFlooding may affect locations at Porlock Bay on Thursday 04 June, with low lying land and roads expected to be most affected, particularly around the coastline between Gore Point and Hurlstone Point including Porlock Weir. The detailed tidal forecast for those who use it is for a peak level at Hinkley Point. The first forecast high water of 4.69 mAODN is at 21:00, with Westerly Force 7 winds. \nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded . \nThis message will be updated by 10:00AM on 05 June 2026 or as the situation changes.\n",
+      "river_or_sea": "Bristol Channel",
+      "county": "Somerset",
+      "ea_area_name": "Wessex",
+      "is_tidal": true,
+      "time_raised": "2026-06-04T14:49:09",
+      "time_message_changed": "2026-06-04T14:49:00",
+      "time_severity_changed": "2026-06-04T14:49:00",
+      "lat": 51.222265,
+      "lng": -3.60636,
+      "bbox": [
+        51.21263,
+        -3.63433,
+        51.2319,
+        -3.57839
+      ],
+      "polygon_url": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1/polygon",
+      "target_area_url": "https://check-for-flooding.service.gov.uk/target-area/112WATSOM1"
     }
   ]
 }
