@@ -2,10 +2,10 @@
   "meta": {
     "schema_version": 1,
     "source": "https://environment.data.gov.uk/flood-monitoring/id/floods",
-    "generated_at": "2026-06-06T10:15:24.193962+00:00"
+    "generated_at": "2026-06-06T12:13:00.609937+00:00"
   },
   "source_url": "https://environment.data.gov.uk/flood-monitoring/id/floods",
-  "notice_count": 2,
+  "notice_count": 1,
   "notices": [
     {
       "id": "011WAFDW",
@@ -30,30 +30,6 @@
       ],
       "polygon_url": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW/polygon",
       "target_area_url": "https://check-for-flooding.service.gov.uk/target-area/011WAFDW"
-    },
-    {
-      "id": "112WATSOM1",
-      "severity_level": 4,
-      "severity_label": "Warning no longer in force",
-      "description": "Somerset coast at Porlock Weir",
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nCoastal conditions are expected to improve and no flooding is expected. However, this flood alert may be reissued for the high tide at 11am on Saturday 06/06/2026 due to the forecast of strong winds. \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nIf you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   \n",
-      "river_or_sea": "Bristol Channel",
-      "county": "Somerset",
-      "ea_area_name": "Wessex",
-      "is_tidal": true,
-      "time_raised": "2026-06-05T11:24:57",
-      "time_message_changed": "2026-06-05T11:24:00",
-      "time_severity_changed": "2026-06-05T11:24:00",
-      "lat": 51.222265,
-      "lng": -3.60636,
-      "bbox": [
-        51.21263,
-        -3.63433,
-        51.2319,
-        -3.57839
-      ],
-      "polygon_url": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1/polygon",
-      "target_area_url": "https://check-for-flooding.service.gov.uk/target-area/112WATSOM1"
     }
   ]
 }
