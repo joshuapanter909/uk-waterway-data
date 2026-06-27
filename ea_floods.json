@@ -2,35 +2,11 @@
   "meta": {
     "schema_version": 1,
     "source": "https://environment.data.gov.uk/flood-monitoring/id/floods",
-    "generated_at": "2026-06-27T07:54:29.269479+00:00"
+    "generated_at": "2026-06-27T10:18:49.519402+00:00"
   },
   "source_url": "https://environment.data.gov.uk/flood-monitoring/id/floods",
-  "notice_count": 10,
+  "notice_count": 4,
   "notices": [
-    {
-      "id": "034WAF408",
-      "severity_level": 4,
-      "severity_label": "Warning no longer in force",
-      "description": "River Wye in Derbyshire",
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nWeather conditions are expected to improve and no further flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nIf you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   \n\n",
-      "river_or_sea": "River Wye",
-      "county": "Derbyshire",
-      "ea_area_name": "East Midlands",
-      "is_tidal": false,
-      "time_raised": "2026-06-26T11:03:01",
-      "time_message_changed": "2026-06-26T11:03:00",
-      "time_severity_changed": "2026-06-26T11:03:00",
-      "lat": 53.23209,
-      "lng": -1.775825,
-      "bbox": [
-        53.14232,
-        -1.93952,
-        53.32186,
-        -1.61213
-      ],
-      "polygon_url": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF408/polygon",
-      "target_area_url": "https://check-for-flooding.service.gov.uk/target-area/034WAF408"
-    },
     {
       "id": "034WAF410",
       "severity_level": 4,
@@ -80,102 +56,6 @@
       "target_area_url": "https://check-for-flooding.service.gov.uk/target-area/034WAF426"
     },
     {
-      "id": "034WAF417",
-      "severity_level": 4,
-      "severity_label": "Warning no longer in force",
-      "description": "River Leen, Day Brook and Tottle Brook in Nottinghamshire",
-      "message": "The flood forecast has changed significantly. As a result, there is no longer a risk of flooding in the area. \nWeather conditions are expected to improve and no further flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nStay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals. Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.   \n\n",
-      "river_or_sea": "River Leen, Day Brook, Tottle Brook",
-      "county": "Nottingham, Nottinghamshire",
-      "ea_area_name": "East Midlands",
-      "is_tidal": false,
-      "time_raised": "2026-06-26T10:52:27",
-      "time_message_changed": "2026-06-26T10:52:00",
-      "time_severity_changed": "2026-06-26T10:52:00",
-      "lat": 53.00029,
-      "lng": -1.17997,
-      "bbox": [
-        52.92042,
-        -1.22956,
-        53.08016,
-        -1.13038
-      ],
-      "polygon_url": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF417/polygon",
-      "target_area_url": "https://check-for-flooding.service.gov.uk/target-area/034WAF417"
-    },
-    {
-      "id": "034WAF430",
-      "severity_level": 4,
-      "severity_label": "Warning no longer in force",
-      "description": "River Maun in Nottinghamshire",
-      "message": "The flood forecast has changed significantly. As a result, there is no longer a risk of flooding in the area. \nWeather conditions are expected to improve and no further flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nStay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals. Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.   \n\n",
-      "river_or_sea": "River Maun",
-      "county": "Nottinghamshire",
-      "ea_area_name": "East Midlands",
-      "is_tidal": false,
-      "time_raised": "2026-06-26T10:50:45",
-      "time_message_changed": "2026-06-26T10:50:00",
-      "time_severity_changed": "2026-06-26T10:50:00",
-      "lat": 53.19728,
-      "lng": -1.083765,
-      "bbox": [
-        53.12484,
-        -1.24028,
-        53.26972,
-        -0.92725
-      ],
-      "polygon_url": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF430/polygon",
-      "target_area_url": "https://check-for-flooding.service.gov.uk/target-area/034WAF430"
-    },
-    {
-      "id": "034WAF423",
-      "severity_level": 4,
-      "severity_label": "Warning no longer in force",
-      "description": "River Erewash Tributaries in Derbyshire and Nottinghamshire",
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nWeather conditions are expected to improve and no further flooding is expected.  \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nIf you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   \n\n",
-      "river_or_sea": "Golden Brook, Beauvale Brook, Bailey Brook, Boundary Brook, Golden Stream",
-      "county": "Derbyshire, Nottinghamshire",
-      "ea_area_name": "East Midlands",
-      "is_tidal": false,
-      "time_raised": "2026-06-26T10:55:19",
-      "time_message_changed": "2026-06-26T10:55:00",
-      "time_severity_changed": "2026-06-26T10:55:00",
-      "lat": 52.991755,
-      "lng": -1.33196,
-      "bbox": [
-        52.88495,
-        -1.39388,
-        53.09856,
-        -1.27004
-      ],
-      "polygon_url": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF423/polygon",
-      "target_area_url": "https://check-for-flooding.service.gov.uk/target-area/034WAF423"
-    },
-    {
-      "id": "034WAF429",
-      "severity_level": 4,
-      "severity_label": "Warning no longer in force",
-      "description": "River Trent Tributaries in Nottinghamshire",
-      "message": "The flood forecast has changed significantly. As a result, there is no longer a risk of flooding in the area. \nWeather conditions are expected to improve and no further flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nStay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals. Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.   \n\n",
-      "river_or_sea": "River Trent, River Greet, Potwell Dyke, Carr Dyke, Dover Beck, Cocker Beck, Thurgarton Beck, Fairham Brook",
-      "county": "Nottingham, Nottinghamshire",
-      "ea_area_name": "East Midlands",
-      "is_tidal": false,
-      "time_raised": "2026-06-26T10:51:41",
-      "time_message_changed": "2026-06-26T10:51:00",
-      "time_severity_changed": "2026-06-26T10:51:00",
-      "lat": 52.977855000000005,
-      "lng": -1.030345,
-      "bbox": [
-        52.82856,
-        -1.19542,
-        53.12715,
-        -0.86527
-      ],
-      "polygon_url": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF429/polygon",
-      "target_area_url": "https://check-for-flooding.service.gov.uk/target-area/034WAF429"
-    },
-    {
       "id": "034WAF405",
       "severity_level": 4,
       "severity_label": "Warning no longer in force",
@@ -198,30 +78,6 @@
       ],
       "polygon_url": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF405/polygon",
       "target_area_url": "https://check-for-flooding.service.gov.uk/target-area/034WAF405"
-    },
-    {
-      "id": "034WAF413",
-      "severity_level": 4,
-      "severity_label": "Warning no longer in force",
-      "description": "Bottle Brook in Derbyshire",
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nWeather conditions are expected to improve and no further flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nIf you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   \n\n",
-      "river_or_sea": "Bottle Brook",
-      "county": "Derbyshire",
-      "ea_area_name": "East Midlands",
-      "is_tidal": false,
-      "time_raised": "2026-06-26T10:58:18",
-      "time_message_changed": "2026-06-26T10:58:00",
-      "time_severity_changed": "2026-06-26T10:58:00",
-      "lat": 52.99907,
-      "lng": -1.434625,
-      "bbox": [
-        52.96889,
-        -1.46154,
-        53.02925,
-        -1.40771
-      ],
-      "polygon_url": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF413/polygon",
-      "target_area_url": "https://check-for-flooding.service.gov.uk/target-area/034WAF413"
     },
     {
       "id": "034WAF411",
