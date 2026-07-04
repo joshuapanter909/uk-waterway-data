@@ -2,7 +2,7 @@
   "meta": {
     "schema_version": 1,
     "source": "https://canalrivertrust.org.uk/api/stoppage/notices",
-    "generated_at": "2026-07-03T21:02:43.850350+00:00"
+    "generated_at": "2026-07-04T02:39:57.300238+00:00"
   },
   "filters": {
     "types": [
@@ -1106,7 +1106,7 @@
     ]
   },
   "source_url": "https://canalrivertrust.org.uk/api/stoppage/notices",
-  "notice_count": 359,
+  "notice_count": 344,
   "notices": [
     {
       "id": "019d445e-166d-7b79-b2ca-2ecdecec07fc",
@@ -2639,51 +2639,6 @@
       }
     },
     {
-      "id": "019d2f51-6752-7bfd-af58-b8151c744b44",
-      "title": "Bridge 141, Castle St. Bridge to Bridge 142, Ravens Lane ",
-      "summary": null,
-      "type_id": 4,
-      "type_name": "Advice",
-      "reason_id": 13,
-      "reason_name": "Event",
-      "programme_id": 1,
-      "programme_name": null,
-      "state": "Published",
-      "start": "2026-08-13T08:00:00+00:00",
-      "end": "2026-08-17T09:00:00+00:00",
-      "region": "London and South East",
-      "waterways": "Grand Union Canal",
-      "path": "/notices/019d2f51-6752-7bfd-af58-b8151c744b44",
-      "url": "https://canalrivertrust.org.uk/notices/019d2f51-6752-7bfd-af58-b8151c744b44",
-      "lng": -0.5599,
-      "lat": 51.7624,
-      "geometry_points": [
-        [
-          -0.5599,
-          51.7624
-        ],
-        [
-          -0.5571,
-          51.7602
-        ]
-      ],
-      "image": null,
-      "raw": {
-        "id": "019d2f51-6752-7bfd-af58-b8151c744b44",
-        "title": "Bridge 141, Castle St. Bridge to Bridge 142, Ravens Lane ",
-        "region": "London and South East",
-        "waterways": "Grand Union Canal",
-        "path": "/notices/019d2f51-6752-7bfd-af58-b8151c744b44",
-        "typeId": 4,
-        "reasonId": 13,
-        "programmeId": 1,
-        "start": "2026-08-13T08:00:00+00:00",
-        "end": "2026-08-17T09:00:00+00:00",
-        "state": "Published",
-        "image": null
-      }
-    },
-    {
       "id": "019d2efb-5cbb-7dc3-893d-3216775c29ab",
       "title": "Bridge 100, Bremilow's Bridge to Bridge 101, Goodwin Bridge",
       "summary": null,
@@ -2719,6 +2674,51 @@
         "region": "North West",
         "waterways": "Shropshire Union Canal",
         "path": "/notices/019d2efb-5cbb-7dc3-893d-3216775c29ab",
+        "typeId": 4,
+        "reasonId": 13,
+        "programmeId": 1,
+        "start": "2026-08-13T08:00:00+00:00",
+        "end": "2026-08-17T09:00:00+00:00",
+        "state": "Published",
+        "image": null
+      }
+    },
+    {
+      "id": "019d2f51-6752-7bfd-af58-b8151c744b44",
+      "title": "Bridge 141, Castle St. Bridge to Bridge 142, Ravens Lane ",
+      "summary": null,
+      "type_id": 4,
+      "type_name": "Advice",
+      "reason_id": 13,
+      "reason_name": "Event",
+      "programme_id": 1,
+      "programme_name": null,
+      "state": "Published",
+      "start": "2026-08-13T08:00:00+00:00",
+      "end": "2026-08-17T09:00:00+00:00",
+      "region": "London and South East",
+      "waterways": "Grand Union Canal",
+      "path": "/notices/019d2f51-6752-7bfd-af58-b8151c744b44",
+      "url": "https://canalrivertrust.org.uk/notices/019d2f51-6752-7bfd-af58-b8151c744b44",
+      "lng": -0.5599,
+      "lat": 51.7624,
+      "geometry_points": [
+        [
+          -0.5599,
+          51.7624
+        ],
+        [
+          -0.5571,
+          51.7602
+        ]
+      ],
+      "image": null,
+      "raw": {
+        "id": "019d2f51-6752-7bfd-af58-b8151c744b44",
+        "title": "Bridge 141, Castle St. Bridge to Bridge 142, Ravens Lane ",
+        "region": "London and South East",
+        "waterways": "Grand Union Canal",
+        "path": "/notices/019d2f51-6752-7bfd-af58-b8151c744b44",
         "typeId": 4,
         "reasonId": 13,
         "programmeId": 1,
@@ -2770,51 +2770,6 @@
       }
     },
     {
-      "id": "019efda7-c84f-703e-8eb2-2c66dcd98e6f",
-      "title": "Navigation Restriction - Regent's Canal, Between Fitzroy Bridge, Gloucester Avenue and Primrose Hill Bridge, Camden",
-      "summary": null,
-      "type_id": 2,
-      "type_name": "Navigation Restriction",
-      "reason_id": 13,
-      "reason_name": "Event",
-      "programme_id": 1,
-      "programme_name": null,
-      "state": "Published",
-      "start": "2026-08-07T16:00:00+00:00",
-      "end": "2026-08-08T11:00:00+00:00",
-      "region": "London and South East",
-      "waterways": "Regent's Canal",
-      "path": "/notices/019efda7-c84f-703e-8eb2-2c66dcd98e6f",
-      "url": "https://canalrivertrust.org.uk/notices/019efda7-c84f-703e-8eb2-2c66dcd98e6f",
-      "lng": -0.1593,
-      "lat": 51.5358,
-      "geometry_points": [
-        [
-          -0.1593,
-          51.5358
-        ],
-        [
-          -0.1501,
-          51.5398
-        ]
-      ],
-      "image": null,
-      "raw": {
-        "id": "019efda7-c84f-703e-8eb2-2c66dcd98e6f",
-        "title": "Navigation Restriction - Regent's Canal, Between Fitzroy Bridge, Gloucester Avenue and Primrose Hill Bridge, Camden",
-        "region": "London and South East",
-        "waterways": "Regent's Canal",
-        "path": "/notices/019efda7-c84f-703e-8eb2-2c66dcd98e6f",
-        "typeId": 2,
-        "reasonId": 13,
-        "programmeId": 1,
-        "start": "2026-08-07T16:00:00+00:00",
-        "end": "2026-08-08T11:00:00+00:00",
-        "state": "Published",
-        "image": null
-      }
-    },
-    {
       "id": "019f1878-0176-706b-8dda-1112a910bd7a",
       "title": "Navigation Restriction - Regent's Canal, Between Fitzroy Bridge, Gloucester Avenue and Primrose Hill Bridge, Camden",
       "summary": null,
@@ -2850,6 +2805,51 @@
         "region": "London and South East",
         "waterways": "Regent's Canal",
         "path": "/notices/019f1878-0176-706b-8dda-1112a910bd7a",
+        "typeId": 2,
+        "reasonId": 13,
+        "programmeId": 1,
+        "start": "2026-08-07T16:00:00+00:00",
+        "end": "2026-08-08T11:00:00+00:00",
+        "state": "Published",
+        "image": null
+      }
+    },
+    {
+      "id": "019efda7-c84f-703e-8eb2-2c66dcd98e6f",
+      "title": "Navigation Restriction - Regent's Canal, Between Fitzroy Bridge, Gloucester Avenue and Primrose Hill Bridge, Camden",
+      "summary": null,
+      "type_id": 2,
+      "type_name": "Navigation Restriction",
+      "reason_id": 13,
+      "reason_name": "Event",
+      "programme_id": 1,
+      "programme_name": null,
+      "state": "Published",
+      "start": "2026-08-07T16:00:00+00:00",
+      "end": "2026-08-08T11:00:00+00:00",
+      "region": "London and South East",
+      "waterways": "Regent's Canal",
+      "path": "/notices/019efda7-c84f-703e-8eb2-2c66dcd98e6f",
+      "url": "https://canalrivertrust.org.uk/notices/019efda7-c84f-703e-8eb2-2c66dcd98e6f",
+      "lng": -0.1593,
+      "lat": 51.5358,
+      "geometry_points": [
+        [
+          -0.1593,
+          51.5358
+        ],
+        [
+          -0.1501,
+          51.5398
+        ]
+      ],
+      "image": null,
+      "raw": {
+        "id": "019efda7-c84f-703e-8eb2-2c66dcd98e6f",
+        "title": "Navigation Restriction - Regent's Canal, Between Fitzroy Bridge, Gloucester Avenue and Primrose Hill Bridge, Camden",
+        "region": "London and South East",
+        "waterways": "Regent's Canal",
+        "path": "/notices/019efda7-c84f-703e-8eb2-2c66dcd98e6f",
         "typeId": 2,
         "reasonId": 13,
         "programmeId": 1,
@@ -4013,47 +4013,6 @@
       }
     },
     {
-      "id": "019f2250-7235-7d07-9946-5696e89af21f",
-      "title": "Whitley Lock, DN14 0JP",
-      "summary": null,
-      "type_id": 2,
-      "type_name": "Navigation Restriction",
-      "reason_id": 2,
-      "reason_name": "3rd Party Works",
-      "programme_id": 1,
-      "programme_name": null,
-      "state": "Published",
-      "start": "2026-07-14T07:00:00+00:00",
-      "end": "2026-07-14T12:00:00+00:00",
-      "region": "Yorkshire and North East",
-      "waterways": "Aire & Calder Navigation Main Line",
-      "path": "/notices/019f2250-7235-7d07-9946-5696e89af21f",
-      "url": "https://canalrivertrust.org.uk/notices/019f2250-7235-7d07-9946-5696e89af21f",
-      "lng": -1.1437,
-      "lat": 53.6925,
-      "geometry_points": [
-        [
-          -1.1437,
-          53.6925
-        ]
-      ],
-      "image": null,
-      "raw": {
-        "id": "019f2250-7235-7d07-9946-5696e89af21f",
-        "title": "Whitley Lock, DN14 0JP",
-        "region": "Yorkshire and North East",
-        "waterways": "Aire & Calder Navigation Main Line",
-        "path": "/notices/019f2250-7235-7d07-9946-5696e89af21f",
-        "typeId": 2,
-        "reasonId": 2,
-        "programmeId": 1,
-        "start": "2026-07-14T07:00:00+00:00",
-        "end": "2026-07-14T12:00:00+00:00",
-        "state": "Published",
-        "image": null
-      }
-    },
-    {
       "id": "019d2a79-7bd0-7679-b34a-da2adb70f585",
       "title": "Bridge 108, Saltley Viaduct, Birmingham & Warwick Junction Canal",
       "summary": null,
@@ -4094,6 +4053,47 @@
         "programmeId": 1,
         "start": "2026-07-14T07:00:00+00:00",
         "end": "2026-08-17T16:00:00+00:00",
+        "state": "Published",
+        "image": null
+      }
+    },
+    {
+      "id": "019f2250-7235-7d07-9946-5696e89af21f",
+      "title": "Whitley Lock, DN14 0JP",
+      "summary": null,
+      "type_id": 2,
+      "type_name": "Navigation Restriction",
+      "reason_id": 2,
+      "reason_name": "3rd Party Works",
+      "programme_id": 1,
+      "programme_name": null,
+      "state": "Published",
+      "start": "2026-07-14T07:00:00+00:00",
+      "end": "2026-07-14T12:00:00+00:00",
+      "region": "Yorkshire and North East",
+      "waterways": "Aire & Calder Navigation Main Line",
+      "path": "/notices/019f2250-7235-7d07-9946-5696e89af21f",
+      "url": "https://canalrivertrust.org.uk/notices/019f2250-7235-7d07-9946-5696e89af21f",
+      "lng": -1.1437,
+      "lat": 53.6925,
+      "geometry_points": [
+        [
+          -1.1437,
+          53.6925
+        ]
+      ],
+      "image": null,
+      "raw": {
+        "id": "019f2250-7235-7d07-9946-5696e89af21f",
+        "title": "Whitley Lock, DN14 0JP",
+        "region": "Yorkshire and North East",
+        "waterways": "Aire & Calder Navigation Main Line",
+        "path": "/notices/019f2250-7235-7d07-9946-5696e89af21f",
+        "typeId": 2,
+        "reasonId": 2,
+        "programmeId": 1,
+        "start": "2026-07-14T07:00:00+00:00",
+        "end": "2026-07-14T12:00:00+00:00",
         "state": "Published",
         "image": null
       }
@@ -4171,6 +4171,51 @@
       }
     },
     {
+      "id": "019d96eb-bb1d-7256-bd90-3eea97ba0f2b",
+      "title": "Bridge 65, Ornamental Bridge to Aqueduct, Iron Trunk ",
+      "summary": null,
+      "type_id": 4,
+      "type_name": "Advice",
+      "reason_id": 13,
+      "reason_name": "Event",
+      "programme_id": 1,
+      "programme_name": null,
+      "state": "Published",
+      "start": "2026-07-13T08:00:00+00:00",
+      "end": "2026-07-21T18:00:00+00:00",
+      "region": "East Midlands",
+      "waterways": "Grand Union Canal",
+      "path": "/notices/019d96eb-bb1d-7256-bd90-3eea97ba0f2b",
+      "url": "https://canalrivertrust.org.uk/notices/019d96eb-bb1d-7256-bd90-3eea97ba0f2b",
+      "lng": -0.8445,
+      "lat": 52.0774,
+      "geometry_points": [
+        [
+          -0.8445,
+          52.0774
+        ],
+        [
+          -0.8337,
+          52.0688
+        ]
+      ],
+      "image": null,
+      "raw": {
+        "id": "019d96eb-bb1d-7256-bd90-3eea97ba0f2b",
+        "title": "Bridge 65, Ornamental Bridge to Aqueduct, Iron Trunk ",
+        "region": "East Midlands",
+        "waterways": "Grand Union Canal",
+        "path": "/notices/019d96eb-bb1d-7256-bd90-3eea97ba0f2b",
+        "typeId": 4,
+        "reasonId": 13,
+        "programmeId": 1,
+        "start": "2026-07-13T08:00:00+00:00",
+        "end": "2026-07-21T18:00:00+00:00",
+        "state": "Published",
+        "image": null
+      }
+    },
+    {
       "id": "019efe21-a09a-7643-a015-1daacd0eb996",
       "title": "Llangollen Branch to Bridge 55, Little Mill Bridge",
       "summary": null,
@@ -4216,46 +4261,42 @@
       }
     },
     {
-      "id": "019d96eb-bb1d-7256-bd90-3eea97ba0f2b",
-      "title": "Bridge 65, Ornamental Bridge to Aqueduct, Iron Trunk ",
+      "id": "019f135e-679b-7422-8dfd-893ddeba6fc9",
+      "title": "Bridge 114B (Railway Bridge), Stoke-on-Trent",
       "summary": null,
-      "type_id": 4,
-      "type_name": "Advice",
-      "reason_id": 13,
-      "reason_name": "Event",
+      "type_id": 2,
+      "type_name": "Navigation Restriction",
+      "reason_id": 5,
+      "reason_name": "Inspections",
       "programme_id": 1,
       "programme_name": null,
       "state": "Published",
-      "start": "2026-07-13T08:00:00+00:00",
-      "end": "2026-07-21T18:00:00+00:00",
-      "region": "East Midlands",
-      "waterways": "Grand Union Canal",
-      "path": "/notices/019d96eb-bb1d-7256-bd90-3eea97ba0f2b",
-      "url": "https://canalrivertrust.org.uk/notices/019d96eb-bb1d-7256-bd90-3eea97ba0f2b",
-      "lng": -0.8445,
-      "lat": 52.0774,
+      "start": "2026-07-13T07:00:00+00:00",
+      "end": "2026-07-13T16:00:00+00:00",
+      "region": "West Midlands",
+      "waterways": "Trent & Mersey Canal",
+      "path": "/notices/019f135e-679b-7422-8dfd-893ddeba6fc9",
+      "url": "https://canalrivertrust.org.uk/notices/019f135e-679b-7422-8dfd-893ddeba6fc9",
+      "lng": -2.1853,
+      "lat": 53.0098,
       "geometry_points": [
         [
-          -0.8445,
-          52.0774
-        ],
-        [
-          -0.8337,
-          52.0688
+          -2.1853,
+          53.0098
         ]
       ],
       "image": null,
       "raw": {
-        "id": "019d96eb-bb1d-7256-bd90-3eea97ba0f2b",
-        "title": "Bridge 65, Ornamental Bridge to Aqueduct, Iron Trunk ",
-        "region": "East Midlands",
-        "waterways": "Grand Union Canal",
-        "path": "/notices/019d96eb-bb1d-7256-bd90-3eea97ba0f2b",
-        "typeId": 4,
-        "reasonId": 13,
+        "id": "019f135e-679b-7422-8dfd-893ddeba6fc9",
+        "title": "Bridge 114B (Railway Bridge), Stoke-on-Trent",
+        "region": "West Midlands",
+        "waterways": "Trent & Mersey Canal",
+        "path": "/notices/019f135e-679b-7422-8dfd-893ddeba6fc9",
+        "typeId": 2,
+        "reasonId": 5,
         "programmeId": 1,
-        "start": "2026-07-13T08:00:00+00:00",
-        "end": "2026-07-21T18:00:00+00:00",
+        "start": "2026-07-13T07:00:00+00:00",
+        "end": "2026-07-13T16:00:00+00:00",
         "state": "Published",
         "image": null
       }
@@ -4343,42 +4384,46 @@
       }
     },
     {
-      "id": "019f135e-679b-7422-8dfd-893ddeba6fc9",
-      "title": "Bridge 114B (Railway Bridge), Stoke-on-Trent",
+      "id": "019e9761-77e3-73a7-bd1e-b8a64e3a9e12",
+      "title": "Towpath Restriction - Between Towpath Bridge, Cegb Basin (Marina) and Bridge, Railway Bridge, Leeds ",
       "summary": null,
-      "type_id": 2,
-      "type_name": "Navigation Restriction",
-      "reason_id": 5,
-      "reason_name": "Inspections",
+      "type_id": 8,
+      "type_name": "Towpath Restriction",
+      "reason_id": 2,
+      "reason_name": "3rd Party Works",
       "programme_id": 1,
       "programme_name": null,
       "state": "Published",
-      "start": "2026-07-13T07:00:00+00:00",
-      "end": "2026-07-13T16:00:00+00:00",
-      "region": "West Midlands",
-      "waterways": "Trent & Mersey Canal",
-      "path": "/notices/019f135e-679b-7422-8dfd-893ddeba6fc9",
-      "url": "https://canalrivertrust.org.uk/notices/019f135e-679b-7422-8dfd-893ddeba6fc9",
-      "lng": -2.1853,
-      "lat": 53.0098,
+      "start": "2026-07-13T06:00:00+00:00",
+      "end": "2026-07-26T18:00:00+00:00",
+      "region": "Yorkshire and North East",
+      "waterways": "Leeds & Liverpool Canal",
+      "path": "/notices/019e9761-77e3-73a7-bd1e-b8a64e3a9e12",
+      "url": "https://canalrivertrust.org.uk/notices/019e9761-77e3-73a7-bd1e-b8a64e3a9e12",
+      "lng": -1.5895,
+      "lat": 53.8033,
       "geometry_points": [
         [
-          -2.1853,
-          53.0098
+          -1.5895,
+          53.8033
+        ],
+        [
+          -1.5871,
+          53.8029
         ]
       ],
       "image": null,
       "raw": {
-        "id": "019f135e-679b-7422-8dfd-893ddeba6fc9",
-        "title": "Bridge 114B (Railway Bridge), Stoke-on-Trent",
-        "region": "West Midlands",
-        "waterways": "Trent & Mersey Canal",
-        "path": "/notices/019f135e-679b-7422-8dfd-893ddeba6fc9",
-        "typeId": 2,
-        "reasonId": 5,
+        "id": "019e9761-77e3-73a7-bd1e-b8a64e3a9e12",
+        "title": "Towpath Restriction - Between Towpath Bridge, Cegb Basin (Marina) and Bridge, Railway Bridge, Leeds ",
+        "region": "Yorkshire and North East",
+        "waterways": "Leeds & Liverpool Canal",
+        "path": "/notices/019e9761-77e3-73a7-bd1e-b8a64e3a9e12",
+        "typeId": 8,
+        "reasonId": 2,
         "programmeId": 1,
-        "start": "2026-07-13T07:00:00+00:00",
-        "end": "2026-07-13T16:00:00+00:00",
+        "start": "2026-07-13T06:00:00+00:00",
+        "end": "2026-07-26T18:00:00+00:00",
         "state": "Published",
         "image": null
       }
@@ -4420,51 +4465,6 @@
         "programmeId": 1,
         "start": "2026-07-13T06:00:00+00:00",
         "end": "2026-07-25T16:00:00+00:00",
-        "state": "Published",
-        "image": null
-      }
-    },
-    {
-      "id": "019e9761-77e3-73a7-bd1e-b8a64e3a9e12",
-      "title": "Towpath Restriction - Between Towpath Bridge, Cegb Basin (Marina) and Bridge, Railway Bridge, Leeds ",
-      "summary": null,
-      "type_id": 8,
-      "type_name": "Towpath Restriction",
-      "reason_id": 2,
-      "reason_name": "3rd Party Works",
-      "programme_id": 1,
-      "programme_name": null,
-      "state": "Published",
-      "start": "2026-07-13T06:00:00+00:00",
-      "end": "2026-07-26T18:00:00+00:00",
-      "region": "Yorkshire and North East",
-      "waterways": "Leeds & Liverpool Canal",
-      "path": "/notices/019e9761-77e3-73a7-bd1e-b8a64e3a9e12",
-      "url": "https://canalrivertrust.org.uk/notices/019e9761-77e3-73a7-bd1e-b8a64e3a9e12",
-      "lng": -1.5895,
-      "lat": 53.8033,
-      "geometry_points": [
-        [
-          -1.5895,
-          53.8033
-        ],
-        [
-          -1.5871,
-          53.8029
-        ]
-      ],
-      "image": null,
-      "raw": {
-        "id": "019e9761-77e3-73a7-bd1e-b8a64e3a9e12",
-        "title": "Towpath Restriction - Between Towpath Bridge, Cegb Basin (Marina) and Bridge, Railway Bridge, Leeds ",
-        "region": "Yorkshire and North East",
-        "waterways": "Leeds & Liverpool Canal",
-        "path": "/notices/019e9761-77e3-73a7-bd1e-b8a64e3a9e12",
-        "typeId": 8,
-        "reasonId": 2,
-        "programmeId": 1,
-        "start": "2026-07-13T06:00:00+00:00",
-        "end": "2026-07-26T18:00:00+00:00",
         "state": "Published",
         "image": null
       }
@@ -4650,6 +4650,47 @@
       }
     },
     {
+      "id": "019e0291-267b-76de-95d3-8840282b667d",
+      "title": "Sheffield Basin",
+      "summary": null,
+      "type_id": 4,
+      "type_name": "Advice",
+      "reason_id": 13,
+      "reason_name": "Event",
+      "programme_id": 1,
+      "programme_name": null,
+      "state": "Published",
+      "start": "2026-07-11T06:30:00+00:00",
+      "end": "2026-07-12T18:00:00+00:00",
+      "region": "Yorkshire and North East",
+      "waterways": "Sheffield & Tinsley Canal",
+      "path": "/notices/019e0291-267b-76de-95d3-8840282b667d",
+      "url": "https://canalrivertrust.org.uk/notices/019e0291-267b-76de-95d3-8840282b667d",
+      "lng": -1.4591,
+      "lat": 53.3848,
+      "geometry_points": [
+        [
+          -1.4591,
+          53.3848
+        ]
+      ],
+      "image": null,
+      "raw": {
+        "id": "019e0291-267b-76de-95d3-8840282b667d",
+        "title": "Sheffield Basin",
+        "region": "Yorkshire and North East",
+        "waterways": "Sheffield & Tinsley Canal",
+        "path": "/notices/019e0291-267b-76de-95d3-8840282b667d",
+        "typeId": 4,
+        "reasonId": 13,
+        "programmeId": 1,
+        "start": "2026-07-11T06:30:00+00:00",
+        "end": "2026-07-12T18:00:00+00:00",
+        "state": "Published",
+        "image": null
+      }
+    },
+    {
       "id": "019efe0a-8e89-7b5b-8a7e-c96cb683e782",
       "title": "Bridge 62, Tunnel End Footbridge to Lock 6 East, Mark Bottom Lock",
       "summary": null,
@@ -4690,47 +4731,6 @@
         "programmeId": 1,
         "start": "2026-07-11T06:30:00+00:00",
         "end": "2026-07-11T14:00:00+00:00",
-        "state": "Published",
-        "image": null
-      }
-    },
-    {
-      "id": "019e0291-267b-76de-95d3-8840282b667d",
-      "title": "Sheffield Basin",
-      "summary": null,
-      "type_id": 4,
-      "type_name": "Advice",
-      "reason_id": 13,
-      "reason_name": "Event",
-      "programme_id": 1,
-      "programme_name": null,
-      "state": "Published",
-      "start": "2026-07-11T06:30:00+00:00",
-      "end": "2026-07-12T18:00:00+00:00",
-      "region": "Yorkshire and North East",
-      "waterways": "Sheffield & Tinsley Canal",
-      "path": "/notices/019e0291-267b-76de-95d3-8840282b667d",
-      "url": "https://canalrivertrust.org.uk/notices/019e0291-267b-76de-95d3-8840282b667d",
-      "lng": -1.4591,
-      "lat": 53.3848,
-      "geometry_points": [
-        [
-          -1.4591,
-          53.3848
-        ]
-      ],
-      "image": null,
-      "raw": {
-        "id": "019e0291-267b-76de-95d3-8840282b667d",
-        "title": "Sheffield Basin",
-        "region": "Yorkshire and North East",
-        "waterways": "Sheffield & Tinsley Canal",
-        "path": "/notices/019e0291-267b-76de-95d3-8840282b667d",
-        "typeId": 4,
-        "reasonId": 13,
-        "programmeId": 1,
-        "start": "2026-07-11T06:30:00+00:00",
-        "end": "2026-07-12T18:00:00+00:00",
         "state": "Published",
         "image": null
       }
@@ -4826,8 +4826,8 @@
       }
     },
     {
-      "id": "019e6de4-506d-7945-9349-b7c3d0b00cb7",
-      "title": "Bridge 81, Crofts Mill Lift Bridge , Maesbury Marsh, Oswestry.",
+      "id": "019e6de7-ef5f-73bf-9e36-6273db46d64a",
+      "title": "Between Bridge 29, Scotch Hall Bridge & Bridge 42, Tilstock Park Bridge (Brickwalls Canal Bridge) Whitchurch",
       "summary": null,
       "type_id": 2,
       "type_name": "Navigation Restriction",
@@ -4839,24 +4839,28 @@
       "start": "2026-07-10T07:00:00+00:00",
       "end": "2026-07-10T17:00:00+00:00",
       "region": "West Midlands",
-      "waterways": "Montgomery Canal",
-      "path": "/notices/019e6de4-506d-7945-9349-b7c3d0b00cb7",
-      "url": "https://canalrivertrust.org.uk/notices/019e6de4-506d-7945-9349-b7c3d0b00cb7",
-      "lng": -3.0331,
-      "lat": 52.8169,
+      "waterways": "Llangollen Canal",
+      "path": "/notices/019e6de7-ef5f-73bf-9e36-6273db46d64a",
+      "url": "https://canalrivertrust.org.uk/notices/019e6de7-ef5f-73bf-9e36-6273db46d64a",
+      "lng": -2.7104,
+      "lat": 52.9817,
       "geometry_points": [
         [
-          -3.0331,
-          52.8169
+          -2.7104,
+          52.9817
+        ],
+        [
+          -2.7265,
+          52.9352
         ]
       ],
       "image": null,
       "raw": {
-        "id": "019e6de4-506d-7945-9349-b7c3d0b00cb7",
-        "title": "Bridge 81, Crofts Mill Lift Bridge , Maesbury Marsh, Oswestry.",
+        "id": "019e6de7-ef5f-73bf-9e36-6273db46d64a",
+        "title": "Between Bridge 29, Scotch Hall Bridge & Bridge 42, Tilstock Park Bridge (Brickwalls Canal Bridge) Whitchurch",
         "region": "West Midlands",
-        "waterways": "Montgomery Canal",
-        "path": "/notices/019e6de4-506d-7945-9349-b7c3d0b00cb7",
+        "waterways": "Llangollen Canal",
+        "path": "/notices/019e6de7-ef5f-73bf-9e36-6273db46d64a",
         "typeId": 2,
         "reasonId": 2,
         "programmeId": 1,
@@ -4908,8 +4912,8 @@
       }
     },
     {
-      "id": "019e6de7-ef5f-73bf-9e36-6273db46d64a",
-      "title": "Between Bridge 29, Scotch Hall Bridge & Bridge 42, Tilstock Park Bridge (Brickwalls Canal Bridge) Whitchurch",
+      "id": "019e6de4-506d-7945-9349-b7c3d0b00cb7",
+      "title": "Bridge 81, Crofts Mill Lift Bridge , Maesbury Marsh, Oswestry.",
       "summary": null,
       "type_id": 2,
       "type_name": "Navigation Restriction",
@@ -4921,28 +4925,24 @@
       "start": "2026-07-10T07:00:00+00:00",
       "end": "2026-07-10T17:00:00+00:00",
       "region": "West Midlands",
-      "waterways": "Llangollen Canal",
-      "path": "/notices/019e6de7-ef5f-73bf-9e36-6273db46d64a",
-      "url": "https://canalrivertrust.org.uk/notices/019e6de7-ef5f-73bf-9e36-6273db46d64a",
-      "lng": -2.7104,
-      "lat": 52.9817,
+      "waterways": "Montgomery Canal",
+      "path": "/notices/019e6de4-506d-7945-9349-b7c3d0b00cb7",
+      "url": "https://canalrivertrust.org.uk/notices/019e6de4-506d-7945-9349-b7c3d0b00cb7",
+      "lng": -3.0331,
+      "lat": 52.8169,
       "geometry_points": [
         [
-          -2.7104,
-          52.9817
-        ],
-        [
-          -2.7265,
-          52.9352
+          -3.0331,
+          52.8169
         ]
       ],
       "image": null,
       "raw": {
-        "id": "019e6de7-ef5f-73bf-9e36-6273db46d64a",
-        "title": "Between Bridge 29, Scotch Hall Bridge & Bridge 42, Tilstock Park Bridge (Brickwalls Canal Bridge) Whitchurch",
+        "id": "019e6de4-506d-7945-9349-b7c3d0b00cb7",
+        "title": "Bridge 81, Crofts Mill Lift Bridge , Maesbury Marsh, Oswestry.",
         "region": "West Midlands",
-        "waterways": "Llangollen Canal",
-        "path": "/notices/019e6de7-ef5f-73bf-9e36-6273db46d64a",
+        "waterways": "Montgomery Canal",
+        "path": "/notices/019e6de4-506d-7945-9349-b7c3d0b00cb7",
         "typeId": 2,
         "reasonId": 2,
         "programmeId": 1,
@@ -5247,43 +5247,39 @@
       }
     },
     {
-      "id": "019f1d4c-11a6-7e42-bf0e-30bd968819db",
-      "title": "Low water levels from Lock 1 to Lock 2 ",
+      "id": "019edfac-e4e9-72df-9fb0-f7117251cda7",
+      "title": "Keadby lock, Keadby; near Scunthorpe, Stainforth & Keadby Canal",
       "summary": null,
       "type_id": 1,
       "type_name": "Navigation Closure",
-      "reason_id": 18,
-      "reason_name": "Low Water Levels",
+      "reason_id": 8,
+      "reason_name": "Repair",
       "programme_id": 1,
       "programme_name": null,
       "state": "Published",
       "start": "2026-07-06T08:00:00+00:00",
       "end": null,
       "region": "Yorkshire and North East",
-      "waterways": "Ripon Canal",
-      "path": "/notices/019f1d4c-11a6-7e42-bf0e-30bd968819db",
-      "url": "https://canalrivertrust.org.uk/notices/019f1d4c-11a6-7e42-bf0e-30bd968819db",
-      "lng": -1.5059,
-      "lat": 54.128,
+      "waterways": "Stainforth & Keadby Canal",
+      "path": "/notices/019edfac-e4e9-72df-9fb0-f7117251cda7",
+      "url": "https://canalrivertrust.org.uk/notices/019edfac-e4e9-72df-9fb0-f7117251cda7",
+      "lng": -0.7402,
+      "lat": 53.5927,
       "geometry_points": [
         [
-          -1.5059,
-          54.128
-        ],
-        [
-          -1.5049,
-          54.1246
+          -0.7402,
+          53.5927
         ]
       ],
       "image": null,
       "raw": {
-        "id": "019f1d4c-11a6-7e42-bf0e-30bd968819db",
-        "title": "Low water levels from Lock 1 to Lock 2 ",
+        "id": "019edfac-e4e9-72df-9fb0-f7117251cda7",
+        "title": "Keadby lock, Keadby; near Scunthorpe, Stainforth & Keadby Canal",
         "region": "Yorkshire and North East",
-        "waterways": "Ripon Canal",
-        "path": "/notices/019f1d4c-11a6-7e42-bf0e-30bd968819db",
+        "waterways": "Stainforth & Keadby Canal",
+        "path": "/notices/019edfac-e4e9-72df-9fb0-f7117251cda7",
         "typeId": 1,
-        "reasonId": 18,
+        "reasonId": 8,
         "programmeId": 1,
         "start": "2026-07-06T08:00:00+00:00",
         "end": null,
@@ -5333,39 +5329,43 @@
       }
     },
     {
-      "id": "019edfac-e4e9-72df-9fb0-f7117251cda7",
-      "title": "Keadby lock, Keadby; near Scunthorpe, Stainforth & Keadby Canal",
+      "id": "019f1d4c-11a6-7e42-bf0e-30bd968819db",
+      "title": "Low water levels from Lock 1 to Lock 2 ",
       "summary": null,
       "type_id": 1,
       "type_name": "Navigation Closure",
-      "reason_id": 8,
-      "reason_name": "Repair",
+      "reason_id": 18,
+      "reason_name": "Low Water Levels",
       "programme_id": 1,
       "programme_name": null,
       "state": "Published",
       "start": "2026-07-06T08:00:00+00:00",
       "end": null,
       "region": "Yorkshire and North East",
-      "waterways": "Stainforth & Keadby Canal",
-      "path": "/notices/019edfac-e4e9-72df-9fb0-f7117251cda7",
-      "url": "https://canalrivertrust.org.uk/notices/019edfac-e4e9-72df-9fb0-f7117251cda7",
-      "lng": -0.7402,
-      "lat": 53.5927,
+      "waterways": "Ripon Canal",
+      "path": "/notices/019f1d4c-11a6-7e42-bf0e-30bd968819db",
+      "url": "https://canalrivertrust.org.uk/notices/019f1d4c-11a6-7e42-bf0e-30bd968819db",
+      "lng": -1.5059,
+      "lat": 54.128,
       "geometry_points": [
         [
-          -0.7402,
-          53.5927
+          -1.5059,
+          54.128
+        ],
+        [
+          -1.5049,
+          54.1246
         ]
       ],
       "image": null,
       "raw": {
-        "id": "019edfac-e4e9-72df-9fb0-f7117251cda7",
-        "title": "Keadby lock, Keadby; near Scunthorpe, Stainforth & Keadby Canal",
+        "id": "019f1d4c-11a6-7e42-bf0e-30bd968819db",
+        "title": "Low water levels from Lock 1 to Lock 2 ",
         "region": "Yorkshire and North East",
-        "waterways": "Stainforth & Keadby Canal",
-        "path": "/notices/019edfac-e4e9-72df-9fb0-f7117251cda7",
+        "waterways": "Ripon Canal",
+        "path": "/notices/019f1d4c-11a6-7e42-bf0e-30bd968819db",
         "typeId": 1,
-        "reasonId": 8,
+        "reasonId": 18,
         "programmeId": 1,
         "start": "2026-07-06T08:00:00+00:00",
         "end": null,
@@ -5460,84 +5460,43 @@
       }
     },
     {
-      "id": "019f2722-a2bc-7fb1-933e-ff3ff98fae46",
-      "title": "Advice - Regent's Canal, Between Bridge 26A, Camden Street Bridge & Bridge 27, Camden Road North Bridge, Camden",
+      "id": "019edb2d-6b92-7a56-ae7c-aee950f27711",
+      "title": "Townfield Embankment",
       "summary": null,
-      "type_id": 4,
-      "type_name": "Advice",
-      "reason_id": 2,
-      "reason_name": "3rd Party Works",
-      "programme_id": 1,
-      "programme_name": null,
-      "state": "Published",
-      "start": "2026-07-06T07:00:00+00:00",
-      "end": "2026-07-24T16:00:00+00:00",
-      "region": "London and South East",
-      "waterways": "Regent's Canal",
-      "path": "/notices/019f2722-a2bc-7fb1-933e-ff3ff98fae46",
-      "url": "https://canalrivertrust.org.uk/notices/019f2722-a2bc-7fb1-933e-ff3ff98fae46",
-      "lng": -0.1403,
-      "lat": 51.541,
-      "geometry_points": [
-        [
-          -0.1403,
-          51.541
-        ],
-        [
-          -0.1391,
-          51.541
-        ]
-      ],
-      "image": null,
-      "raw": {
-        "id": "019f2722-a2bc-7fb1-933e-ff3ff98fae46",
-        "title": "Advice - Regent's Canal, Between Bridge 26A, Camden Street Bridge & Bridge 27, Camden Road North Bridge, Camden",
-        "region": "London and South East",
-        "waterways": "Regent's Canal",
-        "path": "/notices/019f2722-a2bc-7fb1-933e-ff3ff98fae46",
-        "typeId": 4,
-        "reasonId": 2,
-        "programmeId": 1,
-        "start": "2026-07-06T07:00:00+00:00",
-        "end": "2026-07-24T16:00:00+00:00",
-        "state": "Published",
-        "image": null
-      }
-    },
-    {
-      "id": "019e6eb7-39b7-7a39-a504-ce3bc8ab77d2",
-      "title": "Sawley Flood Lock 1",
-      "summary": null,
-      "type_id": 2,
-      "type_name": "Navigation Restriction",
-      "reason_id": 8,
-      "reason_name": "Repair",
+      "type_id": 11,
+      "type_name": "Navigation Restriction and Towpath Closure",
+      "reason_id": 5,
+      "reason_name": "Inspections",
       "programme_id": 1,
       "programme_name": null,
       "state": "Published",
       "start": "2026-07-06T07:00:00+00:00",
       "end": "2026-07-24T15:00:00+00:00",
-      "region": "East Midlands",
-      "waterways": "Upper Trent",
-      "path": "/notices/019e6eb7-39b7-7a39-a504-ce3bc8ab77d2",
-      "url": "https://canalrivertrust.org.uk/notices/019e6eb7-39b7-7a39-a504-ce3bc8ab77d2",
-      "lng": -1.302,
-      "lat": 52.874,
+      "region": "North West",
+      "waterways": "Macclesfield Canal",
+      "path": "/notices/019edb2d-6b92-7a56-ae7c-aee950f27711",
+      "url": "https://canalrivertrust.org.uk/notices/019edb2d-6b92-7a56-ae7c-aee950f27711",
+      "lng": -2.1858,
+      "lat": 53.1788,
       "geometry_points": [
         [
-          -1.302,
-          52.874
+          -2.1858,
+          53.1788
+        ],
+        [
+          -2.1849,
+          53.1718
         ]
       ],
       "image": null,
       "raw": {
-        "id": "019e6eb7-39b7-7a39-a504-ce3bc8ab77d2",
-        "title": "Sawley Flood Lock 1",
-        "region": "East Midlands",
-        "waterways": "Upper Trent",
-        "path": "/notices/019e6eb7-39b7-7a39-a504-ce3bc8ab77d2",
-        "typeId": 2,
-        "reasonId": 8,
+        "id": "019edb2d-6b92-7a56-ae7c-aee950f27711",
+        "title": "Townfield Embankment",
+        "region": "North West",
+        "waterways": "Macclesfield Canal",
+        "path": "/notices/019edb2d-6b92-7a56-ae7c-aee950f27711",
+        "typeId": 11,
+        "reasonId": 5,
         "programmeId": 1,
         "start": "2026-07-06T07:00:00+00:00",
         "end": "2026-07-24T15:00:00+00:00",
@@ -5587,46 +5546,87 @@
       }
     },
     {
-      "id": "019edb2d-6b92-7a56-ae7c-aee950f27711",
-      "title": "Townfield Embankment",
+      "id": "019e6eb7-39b7-7a39-a504-ce3bc8ab77d2",
+      "title": "Sawley Flood Lock 1",
       "summary": null,
-      "type_id": 11,
-      "type_name": "Navigation Restriction and Towpath Closure",
-      "reason_id": 5,
-      "reason_name": "Inspections",
+      "type_id": 2,
+      "type_name": "Navigation Restriction",
+      "reason_id": 8,
+      "reason_name": "Repair",
       "programme_id": 1,
       "programme_name": null,
       "state": "Published",
       "start": "2026-07-06T07:00:00+00:00",
       "end": "2026-07-24T15:00:00+00:00",
-      "region": "North West",
-      "waterways": "Macclesfield Canal",
-      "path": "/notices/019edb2d-6b92-7a56-ae7c-aee950f27711",
-      "url": "https://canalrivertrust.org.uk/notices/019edb2d-6b92-7a56-ae7c-aee950f27711",
-      "lng": -2.1858,
-      "lat": 53.1788,
+      "region": "East Midlands",
+      "waterways": "Upper Trent",
+      "path": "/notices/019e6eb7-39b7-7a39-a504-ce3bc8ab77d2",
+      "url": "https://canalrivertrust.org.uk/notices/019e6eb7-39b7-7a39-a504-ce3bc8ab77d2",
+      "lng": -1.302,
+      "lat": 52.874,
       "geometry_points": [
         [
-          -2.1858,
-          53.1788
-        ],
-        [
-          -2.1849,
-          53.1718
+          -1.302,
+          52.874
         ]
       ],
       "image": null,
       "raw": {
-        "id": "019edb2d-6b92-7a56-ae7c-aee950f27711",
-        "title": "Townfield Embankment",
-        "region": "North West",
-        "waterways": "Macclesfield Canal",
-        "path": "/notices/019edb2d-6b92-7a56-ae7c-aee950f27711",
-        "typeId": 11,
-        "reasonId": 5,
+        "id": "019e6eb7-39b7-7a39-a504-ce3bc8ab77d2",
+        "title": "Sawley Flood Lock 1",
+        "region": "East Midlands",
+        "waterways": "Upper Trent",
+        "path": "/notices/019e6eb7-39b7-7a39-a504-ce3bc8ab77d2",
+        "typeId": 2,
+        "reasonId": 8,
         "programmeId": 1,
         "start": "2026-07-06T07:00:00+00:00",
         "end": "2026-07-24T15:00:00+00:00",
+        "state": "Published",
+        "image": null
+      }
+    },
+    {
+      "id": "019f2722-a2bc-7fb1-933e-ff3ff98fae46",
+      "title": "Advice - Regent's Canal, Between Bridge 26A, Camden Street Bridge & Bridge 27, Camden Road North Bridge, Camden",
+      "summary": null,
+      "type_id": 4,
+      "type_name": "Advice",
+      "reason_id": 2,
+      "reason_name": "3rd Party Works",
+      "programme_id": 1,
+      "programme_name": null,
+      "state": "Published",
+      "start": "2026-07-06T07:00:00+00:00",
+      "end": "2026-07-24T16:00:00+00:00",
+      "region": "London and South East",
+      "waterways": "Regent's Canal",
+      "path": "/notices/019f2722-a2bc-7fb1-933e-ff3ff98fae46",
+      "url": "https://canalrivertrust.org.uk/notices/019f2722-a2bc-7fb1-933e-ff3ff98fae46",
+      "lng": -0.1403,
+      "lat": 51.541,
+      "geometry_points": [
+        [
+          -0.1403,
+          51.541
+        ],
+        [
+          -0.1391,
+          51.541
+        ]
+      ],
+      "image": null,
+      "raw": {
+        "id": "019f2722-a2bc-7fb1-933e-ff3ff98fae46",
+        "title": "Advice - Regent's Canal, Between Bridge 26A, Camden Street Bridge & Bridge 27, Camden Road North Bridge, Camden",
+        "region": "London and South East",
+        "waterways": "Regent's Canal",
+        "path": "/notices/019f2722-a2bc-7fb1-933e-ff3ff98fae46",
+        "typeId": 4,
+        "reasonId": 2,
+        "programmeId": 1,
+        "start": "2026-07-06T07:00:00+00:00",
+        "end": "2026-07-24T16:00:00+00:00",
         "state": "Published",
         "image": null
       }
@@ -5677,51 +5677,6 @@
       }
     },
     {
-      "id": "019eb750-2354-7dcf-b1de-18ef746d64c1",
-      "title": "Bridge 136 Picton Lane to Bridge 130 Mollington",
-      "summary": null,
-      "type_id": 4,
-      "type_name": "Advice",
-      "reason_id": 13,
-      "reason_name": "Event",
-      "programme_id": 1,
-      "programme_name": null,
-      "state": "Published",
-      "start": "2026-07-05T08:00:00+00:00",
-      "end": "2026-07-05T15:00:00+00:00",
-      "region": "North West",
-      "waterways": "Shropshire Union Canal",
-      "path": "/notices/019eb750-2354-7dcf-b1de-18ef746d64c1",
-      "url": "https://canalrivertrust.org.uk/notices/019eb750-2354-7dcf-b1de-18ef746d64c1",
-      "lng": -2.8656,
-      "lat": 53.2509,
-      "geometry_points": [
-        [
-          -2.8656,
-          53.2509
-        ],
-        [
-          -2.9098,
-          53.2122
-        ]
-      ],
-      "image": null,
-      "raw": {
-        "id": "019eb750-2354-7dcf-b1de-18ef746d64c1",
-        "title": "Bridge 136 Picton Lane to Bridge 130 Mollington",
-        "region": "North West",
-        "waterways": "Shropshire Union Canal",
-        "path": "/notices/019eb750-2354-7dcf-b1de-18ef746d64c1",
-        "typeId": 4,
-        "reasonId": 13,
-        "programmeId": 1,
-        "start": "2026-07-05T08:00:00+00:00",
-        "end": "2026-07-05T15:00:00+00:00",
-        "state": "Published",
-        "image": null
-      }
-    },
-    {
       "id": "019cb8d2-f750-7e47-a610-81c415c70e5c",
       "title": "Ware Festival of Running - 5 July - Lee Navigation",
       "summary": null,
@@ -5762,6 +5717,51 @@
         "programmeId": 1,
         "start": "2026-07-05T08:00:00+00:00",
         "end": "2026-07-05T11:30:00+00:00",
+        "state": "Published",
+        "image": null
+      }
+    },
+    {
+      "id": "019eb750-2354-7dcf-b1de-18ef746d64c1",
+      "title": "Bridge 136 Picton Lane to Bridge 130 Mollington",
+      "summary": null,
+      "type_id": 4,
+      "type_name": "Advice",
+      "reason_id": 13,
+      "reason_name": "Event",
+      "programme_id": 1,
+      "programme_name": null,
+      "state": "Published",
+      "start": "2026-07-05T08:00:00+00:00",
+      "end": "2026-07-05T15:00:00+00:00",
+      "region": "North West",
+      "waterways": "Shropshire Union Canal",
+      "path": "/notices/019eb750-2354-7dcf-b1de-18ef746d64c1",
+      "url": "https://canalrivertrust.org.uk/notices/019eb750-2354-7dcf-b1de-18ef746d64c1",
+      "lng": -2.8656,
+      "lat": 53.2509,
+      "geometry_points": [
+        [
+          -2.8656,
+          53.2509
+        ],
+        [
+          -2.9098,
+          53.2122
+        ]
+      ],
+      "image": null,
+      "raw": {
+        "id": "019eb750-2354-7dcf-b1de-18ef746d64c1",
+        "title": "Bridge 136 Picton Lane to Bridge 130 Mollington",
+        "region": "North West",
+        "waterways": "Shropshire Union Canal",
+        "path": "/notices/019eb750-2354-7dcf-b1de-18ef746d64c1",
+        "typeId": 4,
+        "reasonId": 13,
+        "programmeId": 1,
+        "start": "2026-07-05T08:00:00+00:00",
+        "end": "2026-07-05T15:00:00+00:00",
         "state": "Published",
         "image": null
       }
@@ -6127,92 +6127,6 @@
       }
     },
     {
-      "id": "019f2760-9eef-7f19-bf07-6791daaf77ce",
-      "title": "Broadcut Top Lock - Paddle Repairs ",
-      "summary": null,
-      "type_id": 1,
-      "type_name": "Navigation Closure",
-      "reason_id": 8,
-      "reason_name": "Repair",
-      "programme_id": 1,
-      "programme_name": null,
-      "state": "Completed",
-      "start": "2026-07-03T10:00:00+00:00",
-      "end": "2026-07-03T14:00:00+00:00",
-      "region": "Yorkshire and North East",
-      "waterways": "Calder & Hebble Navigation",
-      "path": "/notices/019f2760-9eef-7f19-bf07-6791daaf77ce",
-      "url": "https://canalrivertrust.org.uk/notices/019f2760-9eef-7f19-bf07-6791daaf77ce",
-      "lng": -1.5435,
-      "lat": 53.6493,
-      "geometry_points": [
-        [
-          -1.5435,
-          53.6493
-        ]
-      ],
-      "image": null,
-      "raw": {
-        "id": "019f2760-9eef-7f19-bf07-6791daaf77ce",
-        "title": "Broadcut Top Lock - Paddle Repairs ",
-        "region": "Yorkshire and North East",
-        "waterways": "Calder & Hebble Navigation",
-        "path": "/notices/019f2760-9eef-7f19-bf07-6791daaf77ce",
-        "typeId": 1,
-        "reasonId": 8,
-        "programmeId": 1,
-        "start": "2026-07-03T10:00:00+00:00",
-        "end": "2026-07-03T14:00:00+00:00",
-        "state": "Completed",
-        "image": null
-      }
-    },
-    {
-      "id": "019efdd7-1116-75e0-bdec-5d6a270d7efa",
-      "title": "Bridge 9 to Bridge 24, Ferry Lane Bridge (A503)",
-      "summary": null,
-      "type_id": 4,
-      "type_name": "Advice",
-      "reason_id": 13,
-      "reason_name": "Event",
-      "programme_id": 1,
-      "programme_name": null,
-      "state": "Completed",
-      "start": "2026-07-03T09:30:00+00:00",
-      "end": "2026-07-03T13:30:00+00:00",
-      "region": "London and South East",
-      "waterways": "Lee Navigation",
-      "path": "/notices/019efdd7-1116-75e0-bdec-5d6a270d7efa",
-      "url": "https://canalrivertrust.org.uk/notices/019efdd7-1116-75e0-bdec-5d6a270d7efa",
-      "lng": -0.0212,
-      "lat": 51.5368,
-      "geometry_points": [
-        [
-          -0.0212,
-          51.5368
-        ],
-        [
-          -0.0566,
-          51.5878
-        ]
-      ],
-      "image": null,
-      "raw": {
-        "id": "019efdd7-1116-75e0-bdec-5d6a270d7efa",
-        "title": "Bridge 9 to Bridge 24, Ferry Lane Bridge (A503)",
-        "region": "London and South East",
-        "waterways": "Lee Navigation",
-        "path": "/notices/019efdd7-1116-75e0-bdec-5d6a270d7efa",
-        "typeId": 4,
-        "reasonId": 13,
-        "programmeId": 1,
-        "start": "2026-07-03T09:30:00+00:00",
-        "end": "2026-07-03T13:30:00+00:00",
-        "state": "Completed",
-        "image": null
-      }
-    },
-    {
       "id": "019f2736-e897-7b08-a70e-e8844480fe38",
       "title": "Tinsley Flight - closed due to low water levels.",
       "summary": null,
@@ -6389,88 +6303,6 @@
       }
     },
     {
-      "id": "019f2199-cc16-7d5d-b05d-6bff88f27095",
-      "title": "Slat Mill Lock 26",
-      "summary": null,
-      "type_id": 1,
-      "type_name": "Navigation Closure",
-      "reason_id": 8,
-      "reason_name": "Repair",
-      "programme_id": 1,
-      "programme_name": null,
-      "state": "Completed",
-      "start": "2026-07-03T06:00:00+00:00",
-      "end": "2026-07-03T11:00:00+00:00",
-      "region": "London and South East",
-      "waterways": "Oxford Canal",
-      "path": "/notices/019f2199-cc16-7d5d-b05d-6bff88f27095",
-      "url": "https://canalrivertrust.org.uk/notices/019f2199-cc16-7d5d-b05d-6bff88f27095",
-      "lng": -1.3144,
-      "lat": 52.1007,
-      "geometry_points": [
-        [
-          -1.3144,
-          52.1007
-        ]
-      ],
-      "image": null,
-      "raw": {
-        "id": "019f2199-cc16-7d5d-b05d-6bff88f27095",
-        "title": "Slat Mill Lock 26",
-        "region": "London and South East",
-        "waterways": "Oxford Canal",
-        "path": "/notices/019f2199-cc16-7d5d-b05d-6bff88f27095",
-        "typeId": 1,
-        "reasonId": 8,
-        "programmeId": 1,
-        "start": "2026-07-03T06:00:00+00:00",
-        "end": "2026-07-03T11:00:00+00:00",
-        "state": "Completed",
-        "image": null
-      }
-    },
-    {
-      "id": "019f2344-4455-7c36-a94c-c635b2c92404",
-      "title": "Loco Bridge - unoperable due to a key stuck in the lock. - Fixed and operational",
-      "summary": null,
-      "type_id": 1,
-      "type_name": "Navigation Closure",
-      "reason_id": 12,
-      "reason_name": "Information",
-      "programme_id": 1,
-      "programme_name": null,
-      "state": "Completed",
-      "start": "2026-07-02T15:20:00+00:00",
-      "end": "2026-07-03T10:05:00+00:00",
-      "region": "Yorkshire and North East",
-      "waterways": "Huddersfield Broad Canal",
-      "path": "/notices/019f2344-4455-7c36-a94c-c635b2c92404",
-      "url": "https://canalrivertrust.org.uk/notices/019f2344-4455-7c36-a94c-c635b2c92404",
-      "lng": -1.7753,
-      "lat": 53.6477,
-      "geometry_points": [
-        [
-          -1.7753,
-          53.6477
-        ]
-      ],
-      "image": null,
-      "raw": {
-        "id": "019f2344-4455-7c36-a94c-c635b2c92404",
-        "title": "Loco Bridge - unoperable due to a key stuck in the lock. - Fixed and operational",
-        "region": "Yorkshire and North East",
-        "waterways": "Huddersfield Broad Canal",
-        "path": "/notices/019f2344-4455-7c36-a94c-c635b2c92404",
-        "typeId": 1,
-        "reasonId": 12,
-        "programmeId": 1,
-        "start": "2026-07-02T15:20:00+00:00",
-        "end": "2026-07-03T10:05:00+00:00",
-        "state": "Completed",
-        "image": null
-      }
-    },
-    {
       "id": "019f2350-6433-70a1-ad48-ee45997c40a8",
       "title": "Bridge 72, Meadow Lane Bridge, Great Haywood",
       "summary": null,
@@ -6639,51 +6471,6 @@
         "start": "2026-07-02T10:10:00+00:00",
         "end": "2026-07-13T16:00:00+00:00",
         "state": "Published",
-        "image": null
-      }
-    },
-    {
-      "id": "019f2241-bf5c-769f-85e5-53ceb5f4e10e",
-      "title": "Fallen tree blocking towpath and partially the navigation at Bridge 55a, Inkermans Footbridge. -Tree removed and open for use.",
-      "summary": null,
-      "type_id": 11,
-      "type_name": "Navigation Restriction and Towpath Closure",
-      "reason_id": 10,
-      "reason_name": "Vegetation",
-      "programme_id": 1,
-      "programme_name": null,
-      "state": "Completed",
-      "start": "2026-07-02T10:05:00+00:00",
-      "end": "2026-07-03T10:40:00+00:00",
-      "region": "Yorkshire and North East",
-      "waterways": "Chesterfield Canal",
-      "path": "/notices/019f2241-bf5c-769f-85e5-53ceb5f4e10e",
-      "url": "https://canalrivertrust.org.uk/notices/019f2241-bf5c-769f-85e5-53ceb5f4e10e",
-      "lng": -0.9484,
-      "lat": 53.3192,
-      "geometry_points": [
-        [
-          -0.9484,
-          53.3192
-        ],
-        [
-          -0.9496,
-          53.32
-        ]
-      ],
-      "image": null,
-      "raw": {
-        "id": "019f2241-bf5c-769f-85e5-53ceb5f4e10e",
-        "title": "Fallen tree blocking towpath and partially the navigation at Bridge 55a, Inkermans Footbridge. -Tree removed and open for use.",
-        "region": "Yorkshire and North East",
-        "waterways": "Chesterfield Canal",
-        "path": "/notices/019f2241-bf5c-769f-85e5-53ceb5f4e10e",
-        "typeId": 11,
-        "reasonId": 10,
-        "programmeId": 1,
-        "start": "2026-07-02T10:05:00+00:00",
-        "end": "2026-07-03T10:40:00+00:00",
-        "state": "Completed",
         "image": null
       }
     },
@@ -6909,51 +6696,6 @@
       }
     },
     {
-      "id": "019e97ae-9cb4-7b6d-b164-5c8834cf8cbb",
-      "title": "Regent's Canal, Between Bridge 31 Oblique Bridge and Bridge 29 Grays Inn Bridge, St Pancras ",
-      "summary": null,
-      "type_id": 8,
-      "type_name": "Towpath Restriction",
-      "reason_id": 2,
-      "reason_name": "3rd Party Works",
-      "programme_id": 1,
-      "programme_name": null,
-      "state": "Published",
-      "start": "2026-07-01T07:00:00+00:00",
-      "end": "2026-09-25T16:00:00+00:00",
-      "region": "London and South East",
-      "waterways": "Regent's Canal",
-      "path": "/notices/019e97ae-9cb4-7b6d-b164-5c8834cf8cbb",
-      "url": "https://canalrivertrust.org.uk/notices/019e97ae-9cb4-7b6d-b164-5c8834cf8cbb",
-      "lng": -0.1357,
-      "lat": 51.5403,
-      "geometry_points": [
-        [
-          -0.1357,
-          51.5403
-        ],
-        [
-          -0.13,
-          51.5373
-        ]
-      ],
-      "image": null,
-      "raw": {
-        "id": "019e97ae-9cb4-7b6d-b164-5c8834cf8cbb",
-        "title": "Regent's Canal, Between Bridge 31 Oblique Bridge and Bridge 29 Grays Inn Bridge, St Pancras ",
-        "region": "London and South East",
-        "waterways": "Regent's Canal",
-        "path": "/notices/019e97ae-9cb4-7b6d-b164-5c8834cf8cbb",
-        "typeId": 8,
-        "reasonId": 2,
-        "programmeId": 1,
-        "start": "2026-07-01T07:00:00+00:00",
-        "end": "2026-09-25T16:00:00+00:00",
-        "state": "Published",
-        "image": null
-      }
-    },
-    {
       "id": "019e97c0-2421-79e7-8658-cda19bea5ce8",
       "title": "Towpath Closure - Regent's Canal, Between Bridge 29 (Grays Inn Bridge) and Bridge 31 (Oblique Bridge)., St Pancras",
       "summary": null,
@@ -6994,6 +6736,51 @@
         "programmeId": 1,
         "start": "2026-07-01T07:00:00+00:00",
         "end": "2027-01-04T17:00:00+00:00",
+        "state": "Published",
+        "image": null
+      }
+    },
+    {
+      "id": "019e97ae-9cb4-7b6d-b164-5c8834cf8cbb",
+      "title": "Regent's Canal, Between Bridge 31 Oblique Bridge and Bridge 29 Grays Inn Bridge, St Pancras ",
+      "summary": null,
+      "type_id": 8,
+      "type_name": "Towpath Restriction",
+      "reason_id": 2,
+      "reason_name": "3rd Party Works",
+      "programme_id": 1,
+      "programme_name": null,
+      "state": "Published",
+      "start": "2026-07-01T07:00:00+00:00",
+      "end": "2026-09-25T16:00:00+00:00",
+      "region": "London and South East",
+      "waterways": "Regent's Canal",
+      "path": "/notices/019e97ae-9cb4-7b6d-b164-5c8834cf8cbb",
+      "url": "https://canalrivertrust.org.uk/notices/019e97ae-9cb4-7b6d-b164-5c8834cf8cbb",
+      "lng": -0.1357,
+      "lat": 51.5403,
+      "geometry_points": [
+        [
+          -0.1357,
+          51.5403
+        ],
+        [
+          -0.13,
+          51.5373
+        ]
+      ],
+      "image": null,
+      "raw": {
+        "id": "019e97ae-9cb4-7b6d-b164-5c8834cf8cbb",
+        "title": "Regent's Canal, Between Bridge 31 Oblique Bridge and Bridge 29 Grays Inn Bridge, St Pancras ",
+        "region": "London and South East",
+        "waterways": "Regent's Canal",
+        "path": "/notices/019e97ae-9cb4-7b6d-b164-5c8834cf8cbb",
+        "typeId": 8,
+        "reasonId": 2,
+        "programmeId": 1,
+        "start": "2026-07-01T07:00:00+00:00",
+        "end": "2026-09-25T16:00:00+00:00",
         "state": "Published",
         "image": null
       }
@@ -7466,47 +7253,6 @@
       }
     },
     {
-      "id": "019ef52e-f328-73ff-ba60-82590f9e55f0",
-      "title": "Coventry Canal Basin",
-      "summary": null,
-      "type_id": 4,
-      "type_name": "Advice",
-      "reason_id": 13,
-      "reason_name": "Event",
-      "programme_id": 1,
-      "programme_name": null,
-      "state": "Completed",
-      "start": "2026-06-29T07:30:00+00:00",
-      "end": "2026-07-03T15:30:00+00:00",
-      "region": "West Midlands",
-      "waterways": "Coventry Canal",
-      "path": "/notices/019ef52e-f328-73ff-ba60-82590f9e55f0",
-      "url": "https://canalrivertrust.org.uk/notices/019ef52e-f328-73ff-ba60-82590f9e55f0",
-      "lng": -1.5118,
-      "lat": 52.4133,
-      "geometry_points": [
-        [
-          -1.5118,
-          52.4133
-        ]
-      ],
-      "image": null,
-      "raw": {
-        "id": "019ef52e-f328-73ff-ba60-82590f9e55f0",
-        "title": "Coventry Canal Basin",
-        "region": "West Midlands",
-        "waterways": "Coventry Canal",
-        "path": "/notices/019ef52e-f328-73ff-ba60-82590f9e55f0",
-        "typeId": 4,
-        "reasonId": 13,
-        "programmeId": 1,
-        "start": "2026-06-29T07:30:00+00:00",
-        "end": "2026-07-03T15:30:00+00:00",
-        "state": "Completed",
-        "image": null
-      }
-    },
-    {
       "id": "019ea7c6-105f-7590-b452-34e435324aa0",
       "title": "Cuckstool Wharf, Newark",
       "summary": null,
@@ -7588,47 +7334,6 @@
       }
     },
     {
-      "id": "019e6e24-29c9-74cb-8fa1-daf923f47d42",
-      "title": "Navigation Restriction - Huddersfield Broad Canal, HB-001-013 and 100m upstream, Huddersfield - Demolition of building offside",
-      "summary": null,
-      "type_id": 2,
-      "type_name": "Navigation Restriction",
-      "reason_id": 2,
-      "reason_name": "3rd Party Works",
-      "programme_id": 1,
-      "programme_name": null,
-      "state": "Published",
-      "start": "2026-06-29T07:00:00+00:00",
-      "end": "2026-10-02T17:00:00+00:00",
-      "region": "Yorkshire and North East",
-      "waterways": "Huddersfield Broad Canal",
-      "path": "/notices/019e6e24-29c9-74cb-8fa1-daf923f47d42",
-      "url": "https://canalrivertrust.org.uk/notices/019e6e24-29c9-74cb-8fa1-daf923f47d42",
-      "lng": -1.7753,
-      "lat": 53.6477,
-      "geometry_points": [
-        [
-          -1.7753,
-          53.6477
-        ]
-      ],
-      "image": null,
-      "raw": {
-        "id": "019e6e24-29c9-74cb-8fa1-daf923f47d42",
-        "title": "Navigation Restriction - Huddersfield Broad Canal, HB-001-013 and 100m upstream, Huddersfield - Demolition of building offside",
-        "region": "Yorkshire and North East",
-        "waterways": "Huddersfield Broad Canal",
-        "path": "/notices/019e6e24-29c9-74cb-8fa1-daf923f47d42",
-        "typeId": 2,
-        "reasonId": 2,
-        "programmeId": 1,
-        "start": "2026-06-29T07:00:00+00:00",
-        "end": "2026-10-02T17:00:00+00:00",
-        "state": "Published",
-        "image": null
-      }
-    },
-    {
       "id": "019f0459-1b5f-76bf-a52f-ce1f56b9355b",
       "title": "Between Stanton Lock 65 and Hallam Fields Lock 66 ",
       "summary": null,
@@ -7674,46 +7379,42 @@
       }
     },
     {
-      "id": "019eefe6-0aae-759d-a7ff-ce8dbf63deae",
-      "title": "College Road Bridge, Perry Barr, Birmingham",
+      "id": "019e6e24-29c9-74cb-8fa1-daf923f47d42",
+      "title": "Navigation Restriction - Huddersfield Broad Canal, HB-001-013 and 100m upstream, Huddersfield - Demolition of building offside",
       "summary": null,
-      "type_id": 4,
-      "type_name": "Advice",
+      "type_id": 2,
+      "type_name": "Navigation Restriction",
       "reason_id": 2,
       "reason_name": "3rd Party Works",
       "programme_id": 1,
       "programme_name": null,
       "state": "Published",
-      "start": "2026-06-29T06:00:00+00:00",
-      "end": "2026-07-10T16:00:00+00:00",
-      "region": "West Midlands",
-      "waterways": "Tame Valley Canal",
-      "path": "/notices/019eefe6-0aae-759d-a7ff-ce8dbf63deae",
-      "url": "https://canalrivertrust.org.uk/notices/019eefe6-0aae-759d-a7ff-ce8dbf63deae",
-      "lng": -1.8924,
-      "lat": 52.5301,
+      "start": "2026-06-29T07:00:00+00:00",
+      "end": "2026-10-02T17:00:00+00:00",
+      "region": "Yorkshire and North East",
+      "waterways": "Huddersfield Broad Canal",
+      "path": "/notices/019e6e24-29c9-74cb-8fa1-daf923f47d42",
+      "url": "https://canalrivertrust.org.uk/notices/019e6e24-29c9-74cb-8fa1-daf923f47d42",
+      "lng": -1.7753,
+      "lat": 53.6477,
       "geometry_points": [
         [
-          -1.8924,
-          52.5301
-        ],
-        [
-          -1.8921,
-          52.5299
+          -1.7753,
+          53.6477
         ]
       ],
       "image": null,
       "raw": {
-        "id": "019eefe6-0aae-759d-a7ff-ce8dbf63deae",
-        "title": "College Road Bridge, Perry Barr, Birmingham",
-        "region": "West Midlands",
-        "waterways": "Tame Valley Canal",
-        "path": "/notices/019eefe6-0aae-759d-a7ff-ce8dbf63deae",
-        "typeId": 4,
+        "id": "019e6e24-29c9-74cb-8fa1-daf923f47d42",
+        "title": "Navigation Restriction - Huddersfield Broad Canal, HB-001-013 and 100m upstream, Huddersfield - Demolition of building offside",
+        "region": "Yorkshire and North East",
+        "waterways": "Huddersfield Broad Canal",
+        "path": "/notices/019e6e24-29c9-74cb-8fa1-daf923f47d42",
+        "typeId": 2,
         "reasonId": 2,
         "programmeId": 1,
-        "start": "2026-06-29T06:00:00+00:00",
-        "end": "2026-07-10T16:00:00+00:00",
+        "start": "2026-06-29T07:00:00+00:00",
+        "end": "2026-10-02T17:00:00+00:00",
         "state": "Published",
         "image": null
       }
@@ -7764,6 +7465,51 @@
       }
     },
     {
+      "id": "019eefe6-0aae-759d-a7ff-ce8dbf63deae",
+      "title": "College Road Bridge, Perry Barr, Birmingham",
+      "summary": null,
+      "type_id": 4,
+      "type_name": "Advice",
+      "reason_id": 2,
+      "reason_name": "3rd Party Works",
+      "programme_id": 1,
+      "programme_name": null,
+      "state": "Published",
+      "start": "2026-06-29T06:00:00+00:00",
+      "end": "2026-07-10T16:00:00+00:00",
+      "region": "West Midlands",
+      "waterways": "Tame Valley Canal",
+      "path": "/notices/019eefe6-0aae-759d-a7ff-ce8dbf63deae",
+      "url": "https://canalrivertrust.org.uk/notices/019eefe6-0aae-759d-a7ff-ce8dbf63deae",
+      "lng": -1.8924,
+      "lat": 52.5301,
+      "geometry_points": [
+        [
+          -1.8924,
+          52.5301
+        ],
+        [
+          -1.8921,
+          52.5299
+        ]
+      ],
+      "image": null,
+      "raw": {
+        "id": "019eefe6-0aae-759d-a7ff-ce8dbf63deae",
+        "title": "College Road Bridge, Perry Barr, Birmingham",
+        "region": "West Midlands",
+        "waterways": "Tame Valley Canal",
+        "path": "/notices/019eefe6-0aae-759d-a7ff-ce8dbf63deae",
+        "typeId": 4,
+        "reasonId": 2,
+        "programmeId": 1,
+        "start": "2026-06-29T06:00:00+00:00",
+        "end": "2026-07-10T16:00:00+00:00",
+        "state": "Published",
+        "image": null
+      }
+    },
+    {
       "id": "019ef3a6-9375-7569-8188-b006659f1cd0",
       "title": "Bridge 6, Cambrian Street Road Bridge & Bridge 5, Beswick Street Road Bridge",
       "summary": null,
@@ -7809,51 +7555,6 @@
       }
     },
     {
-      "id": "019f099c-7123-7ab9-a36b-15b6f1bc2374",
-      "title": "Downstream of Beeston Lock- Nottingham and Beeston Canal",
-      "summary": null,
-      "type_id": 4,
-      "type_name": "Advice",
-      "reason_id": 16,
-      "reason_name": "Underwater Obstruction",
-      "programme_id": 1,
-      "programme_name": null,
-      "state": "Completed",
-      "start": "2026-06-27T15:15:00+00:00",
-      "end": "2026-07-03T14:15:26+00:00",
-      "region": "East Midlands",
-      "waterways": "Nottingham & Beeston Canal",
-      "path": "/notices/019f099c-7123-7ab9-a36b-15b6f1bc2374",
-      "url": "https://canalrivertrust.org.uk/notices/019f099c-7123-7ab9-a36b-15b6f1bc2374",
-      "lng": -1.1968,
-      "lat": 52.9158,
-      "geometry_points": [
-        [
-          -1.1968,
-          52.9158
-        ],
-        [
-          -1.1827,
-          52.9243
-        ]
-      ],
-      "image": null,
-      "raw": {
-        "id": "019f099c-7123-7ab9-a36b-15b6f1bc2374",
-        "title": "Downstream of Beeston Lock- Nottingham and Beeston Canal",
-        "region": "East Midlands",
-        "waterways": "Nottingham & Beeston Canal",
-        "path": "/notices/019f099c-7123-7ab9-a36b-15b6f1bc2374",
-        "typeId": 4,
-        "reasonId": 16,
-        "programmeId": 1,
-        "start": "2026-06-27T15:15:00+00:00",
-        "end": "2026-07-03T14:15:26+00:00",
-        "state": "Completed",
-        "image": null
-      }
-    },
-    {
       "id": "019f0836-7aa9-7799-af47-60248b6a3c62",
       "title": "Seend Pump Out",
       "summary": null,
@@ -7891,51 +7592,6 @@
         "start": "2026-06-27T08:55:00+00:00",
         "end": null,
         "state": "Published",
-        "image": null
-      }
-    },
-    {
-      "id": "019f059a-1466-7e9c-a376-bdebde06dab9",
-      "title": "Lock 103, Burghfield Lock, Kennet & Avon Canal ",
-      "summary": null,
-      "type_id": 4,
-      "type_name": "Advice",
-      "reason_id": 14,
-      "reason_name": "Boating Incident",
-      "programme_id": 1,
-      "programme_name": null,
-      "state": "Completed",
-      "start": "2026-06-26T21:00:00+00:00",
-      "end": "2026-07-03T10:37:00+00:00",
-      "region": "Wales and South West",
-      "waterways": "Kennet & Avon Canal",
-      "path": "/notices/019f059a-1466-7e9c-a376-bdebde06dab9",
-      "url": "https://canalrivertrust.org.uk/notices/019f059a-1466-7e9c-a376-bdebde06dab9",
-      "lng": -1.0324,
-      "lat": 51.4332,
-      "geometry_points": [
-        [
-          -1.0324,
-          51.4332
-        ],
-        [
-          -1.0687,
-          51.4309
-        ]
-      ],
-      "image": null,
-      "raw": {
-        "id": "019f059a-1466-7e9c-a376-bdebde06dab9",
-        "title": "Lock 103, Burghfield Lock, Kennet & Avon Canal ",
-        "region": "Wales and South West",
-        "waterways": "Kennet & Avon Canal",
-        "path": "/notices/019f059a-1466-7e9c-a376-bdebde06dab9",
-        "typeId": 4,
-        "reasonId": 14,
-        "programmeId": 1,
-        "start": "2026-06-26T21:00:00+00:00",
-        "end": "2026-07-03T10:37:00+00:00",
-        "state": "Completed",
         "image": null
       }
     },
@@ -8018,51 +7674,6 @@
         "start": "2026-06-26T07:00:00+00:00",
         "end": "2026-08-24T17:00:00+00:00",
         "state": "Published",
-        "image": null
-      }
-    },
-    {
-      "id": "019eff54-1817-7d97-ac75-b7b6f4a1d8ab",
-      "title": "Between Bridge 8 and Bridge 9, Watford",
-      "summary": null,
-      "type_id": 2,
-      "type_name": "Navigation Restriction",
-      "reason_id": 10,
-      "reason_name": "Vegetation",
-      "programme_id": 1,
-      "programme_name": null,
-      "state": "Completed",
-      "start": "2026-06-25T15:50:00+00:00",
-      "end": "2026-07-03T14:31:24+00:00",
-      "region": "East Midlands",
-      "waterways": "Leicester Line (Grand Union Canal)",
-      "path": "/notices/019eff54-1817-7d97-ac75-b7b6f4a1d8ab",
-      "url": "https://canalrivertrust.org.uk/notices/019eff54-1817-7d97-ac75-b7b6f4a1d8ab",
-      "lng": -1.1263,
-      "lat": 52.3198,
-      "geometry_points": [
-        [
-          -1.1263,
-          52.3198
-        ],
-        [
-          -1.1298,
-          52.3228
-        ]
-      ],
-      "image": null,
-      "raw": {
-        "id": "019eff54-1817-7d97-ac75-b7b6f4a1d8ab",
-        "title": "Between Bridge 8 and Bridge 9, Watford",
-        "region": "East Midlands",
-        "waterways": "Leicester Line (Grand Union Canal)",
-        "path": "/notices/019eff54-1817-7d97-ac75-b7b6f4a1d8ab",
-        "typeId": 2,
-        "reasonId": 10,
-        "programmeId": 1,
-        "start": "2026-06-25T15:50:00+00:00",
-        "end": "2026-07-03T14:31:24+00:00",
-        "state": "Completed",
         "image": null
       }
     },
@@ -8407,47 +8018,6 @@
       }
     },
     {
-      "id": "019ef4e2-1ee8-7821-a154-961a94a6c1fb",
-      "title": "Lock 1, Braunston",
-      "summary": null,
-      "type_id": 4,
-      "type_name": "Advice",
-      "reason_id": 12,
-      "reason_name": "Information",
-      "programme_id": 1,
-      "programme_name": null,
-      "state": "Completed",
-      "start": "2026-06-23T14:31:00+00:00",
-      "end": "2026-07-03T13:26:00+00:00",
-      "region": "East Midlands",
-      "waterways": "Grand Union Canal",
-      "path": "/notices/019ef4e2-1ee8-7821-a154-961a94a6c1fb",
-      "url": "https://canalrivertrust.org.uk/notices/019ef4e2-1ee8-7821-a154-961a94a6c1fb",
-      "lng": -1.2027,
-      "lat": 52.2891,
-      "geometry_points": [
-        [
-          -1.2027,
-          52.2891
-        ]
-      ],
-      "image": null,
-      "raw": {
-        "id": "019ef4e2-1ee8-7821-a154-961a94a6c1fb",
-        "title": "Lock 1, Braunston",
-        "region": "East Midlands",
-        "waterways": "Grand Union Canal",
-        "path": "/notices/019ef4e2-1ee8-7821-a154-961a94a6c1fb",
-        "typeId": 4,
-        "reasonId": 12,
-        "programmeId": 1,
-        "start": "2026-06-23T14:31:00+00:00",
-        "end": "2026-07-03T13:26:00+00:00",
-        "state": "Completed",
-        "image": null
-      }
-    },
-    {
       "id": "019ef3e6-9067-72e6-8f5d-36e2660f19ca",
       "title": "Lock 79  Common Moor Lock",
       "summary": null,
@@ -8620,51 +8190,6 @@
       }
     },
     {
-      "id": "019eefc5-2c1e-7f29-bc94-b455cfda38a3",
-      "title": "Bridge 3, Purton Lower to Bridge 24, Llanthony Bridge.",
-      "summary": null,
-      "type_id": 2,
-      "type_name": "Navigation Restriction",
-      "reason_id": 12,
-      "reason_name": "Information",
-      "programme_id": 1,
-      "programme_name": null,
-      "state": "Completed",
-      "start": "2026-06-22T14:45:00+00:00",
-      "end": "2026-07-03T09:10:00+00:00",
-      "region": "Wales and South West",
-      "waterways": "Gloucester & Sharpness Canal",
-      "path": "/notices/019eefc5-2c1e-7f29-bc94-b455cfda38a3",
-      "url": "https://canalrivertrust.org.uk/notices/019eefc5-2c1e-7f29-bc94-b455cfda38a3",
-      "lng": -2.4487,
-      "lat": 51.737,
-      "geometry_points": [
-        [
-          -2.4487,
-          51.737
-        ],
-        [
-          -2.2537,
-          51.8616
-        ]
-      ],
-      "image": null,
-      "raw": {
-        "id": "019eefc5-2c1e-7f29-bc94-b455cfda38a3",
-        "title": "Bridge 3, Purton Lower to Bridge 24, Llanthony Bridge.",
-        "region": "Wales and South West",
-        "waterways": "Gloucester & Sharpness Canal",
-        "path": "/notices/019eefc5-2c1e-7f29-bc94-b455cfda38a3",
-        "typeId": 2,
-        "reasonId": 12,
-        "programmeId": 1,
-        "start": "2026-06-22T14:45:00+00:00",
-        "end": "2026-07-03T09:10:00+00:00",
-        "state": "Completed",
-        "image": null
-      }
-    },
-    {
       "id": "019eef0b-0e18-7bcf-9fa2-e6d155e1bf1c",
       "title": "Wasps in ground paddle Lock 53 Berkhamsted ",
       "summary": null,
@@ -8702,47 +8227,6 @@
         "start": "2026-06-22T11:25:00+00:00",
         "end": null,
         "state": "Published",
-        "image": null
-      }
-    },
-    {
-      "id": "019e8c9d-4a5c-76d3-b329-1b9ebbb7ca8e",
-      "title": "Bridge 183, Sydenham Lift Bridge",
-      "summary": null,
-      "type_id": 2,
-      "type_name": "Navigation Restriction",
-      "reason_id": 8,
-      "reason_name": "Repair",
-      "programme_id": 1,
-      "programme_name": null,
-      "state": "Completed",
-      "start": "2026-06-22T08:00:00+00:00",
-      "end": "2026-07-03T15:00:00+00:00",
-      "region": "London and South East",
-      "waterways": "Oxford Canal",
-      "path": "/notices/019e8c9d-4a5c-76d3-b329-1b9ebbb7ca8e",
-      "url": "https://canalrivertrust.org.uk/notices/019e8c9d-4a5c-76d3-b329-1b9ebbb7ca8e",
-      "lng": -1.2829,
-      "lat": 52.0141,
-      "geometry_points": [
-        [
-          -1.2829,
-          52.0141
-        ]
-      ],
-      "image": null,
-      "raw": {
-        "id": "019e8c9d-4a5c-76d3-b329-1b9ebbb7ca8e",
-        "title": "Bridge 183, Sydenham Lift Bridge",
-        "region": "London and South East",
-        "waterways": "Oxford Canal",
-        "path": "/notices/019e8c9d-4a5c-76d3-b329-1b9ebbb7ca8e",
-        "typeId": 2,
-        "reasonId": 8,
-        "programmeId": 1,
-        "start": "2026-06-22T08:00:00+00:00",
-        "end": "2026-07-03T15:00:00+00:00",
-        "state": "Completed",
         "image": null
       }
     },
@@ -8825,47 +8309,6 @@
         "start": "2026-06-22T07:00:00+00:00",
         "end": "2026-07-31T16:00:00+00:00",
         "state": "Published",
-        "image": null
-      }
-    },
-    {
-      "id": "019ee56b-23eb-7839-b110-188775081c75",
-      "title": "Lock 7 west Huddersfield Narrow Canal",
-      "summary": null,
-      "type_id": 1,
-      "type_name": "Navigation Closure",
-      "reason_id": 8,
-      "reason_name": "Repair",
-      "programme_id": 1,
-      "programme_name": null,
-      "state": "Completed",
-      "start": "2026-06-20T14:30:00+00:00",
-      "end": "2026-07-03T10:00:25+00:00",
-      "region": "North West",
-      "waterways": "Huddersfield Narrow Canal",
-      "path": "/notices/019ee56b-23eb-7839-b110-188775081c75",
-      "url": "https://canalrivertrust.org.uk/notices/019ee56b-23eb-7839-b110-188775081c75",
-      "lng": -2.0511,
-      "lat": 53.484,
-      "geometry_points": [
-        [
-          -2.0511,
-          53.484
-        ]
-      ],
-      "image": null,
-      "raw": {
-        "id": "019ee56b-23eb-7839-b110-188775081c75",
-        "title": "Lock 7 west Huddersfield Narrow Canal",
-        "region": "North West",
-        "waterways": "Huddersfield Narrow Canal",
-        "path": "/notices/019ee56b-23eb-7839-b110-188775081c75",
-        "typeId": 1,
-        "reasonId": 8,
-        "programmeId": 1,
-        "start": "2026-06-20T14:30:00+00:00",
-        "end": "2026-07-03T10:00:25+00:00",
-        "state": "Completed",
         "image": null
       }
     },
@@ -9497,46 +8940,46 @@
       }
     },
     {
-      "id": "019e02c0-c516-7ab8-8082-03ba2d8e209e",
-      "title": "Towpath and Moorings between Four Ashes Bridge No. 78A and Watling Steet Bridge 79, Penkridge, Stafford",
+      "id": "019eb65a-547e-72e2-8665-d3b110d85c97",
+      "title": "Upstream approach to St Mary's Mill Lock 40 and upstream approach to Freemans Meadow Lock 41, Leicester",
       "summary": null,
-      "type_id": 3,
-      "type_name": "Towpath Closure",
+      "type_id": 4,
+      "type_name": "Advice",
       "reason_id": 2,
       "reason_name": "3rd Party Works",
       "programme_id": 1,
       "programme_name": null,
       "state": "Published",
       "start": "2026-06-15T07:00:00+00:00",
-      "end": "2026-07-31T17:00:00+00:00",
-      "region": "West Midlands",
-      "waterways": "Staffordshire & Worcestershire Cnl",
-      "path": "/notices/019e02c0-c516-7ab8-8082-03ba2d8e209e",
-      "url": "https://canalrivertrust.org.uk/notices/019e02c0-c516-7ab8-8082-03ba2d8e209e",
-      "lng": -2.1255,
-      "lat": 52.6836,
+      "end": "2026-07-10T16:00:00+00:00",
+      "region": "East Midlands",
+      "waterways": "Leicester Line (Grand Union Canal)",
+      "path": "/notices/019eb65a-547e-72e2-8665-d3b110d85c97",
+      "url": "https://canalrivertrust.org.uk/notices/019eb65a-547e-72e2-8665-d3b110d85c97",
+      "lng": -1.1484,
+      "lat": 52.6176,
       "geometry_points": [
         [
-          -2.1255,
-          52.6836
+          -1.1484,
+          52.6176
         ],
         [
-          -2.1196,
-          52.6914
+          -1.1448,
+          52.6215
         ]
       ],
       "image": null,
       "raw": {
-        "id": "019e02c0-c516-7ab8-8082-03ba2d8e209e",
-        "title": "Towpath and Moorings between Four Ashes Bridge No. 78A and Watling Steet Bridge 79, Penkridge, Stafford",
-        "region": "West Midlands",
-        "waterways": "Staffordshire & Worcestershire Cnl",
-        "path": "/notices/019e02c0-c516-7ab8-8082-03ba2d8e209e",
-        "typeId": 3,
+        "id": "019eb65a-547e-72e2-8665-d3b110d85c97",
+        "title": "Upstream approach to St Mary's Mill Lock 40 and upstream approach to Freemans Meadow Lock 41, Leicester",
+        "region": "East Midlands",
+        "waterways": "Leicester Line (Grand Union Canal)",
+        "path": "/notices/019eb65a-547e-72e2-8665-d3b110d85c97",
+        "typeId": 4,
         "reasonId": 2,
         "programmeId": 1,
         "start": "2026-06-15T07:00:00+00:00",
-        "end": "2026-07-31T17:00:00+00:00",
+        "end": "2026-07-10T16:00:00+00:00",
         "state": "Published",
         "image": null
       }
@@ -9587,46 +9030,46 @@
       }
     },
     {
-      "id": "019eb65a-547e-72e2-8665-d3b110d85c97",
-      "title": "Upstream approach to St Mary's Mill Lock 40 and upstream approach to Freemans Meadow Lock 41, Leicester",
+      "id": "019e02c0-c516-7ab8-8082-03ba2d8e209e",
+      "title": "Towpath and Moorings between Four Ashes Bridge No. 78A and Watling Steet Bridge 79, Penkridge, Stafford",
       "summary": null,
-      "type_id": 4,
-      "type_name": "Advice",
+      "type_id": 3,
+      "type_name": "Towpath Closure",
       "reason_id": 2,
       "reason_name": "3rd Party Works",
       "programme_id": 1,
       "programme_name": null,
       "state": "Published",
       "start": "2026-06-15T07:00:00+00:00",
-      "end": "2026-07-10T16:00:00+00:00",
-      "region": "East Midlands",
-      "waterways": "Leicester Line (Grand Union Canal)",
-      "path": "/notices/019eb65a-547e-72e2-8665-d3b110d85c97",
-      "url": "https://canalrivertrust.org.uk/notices/019eb65a-547e-72e2-8665-d3b110d85c97",
-      "lng": -1.1484,
-      "lat": 52.6176,
+      "end": "2026-07-31T17:00:00+00:00",
+      "region": "West Midlands",
+      "waterways": "Staffordshire & Worcestershire Cnl",
+      "path": "/notices/019e02c0-c516-7ab8-8082-03ba2d8e209e",
+      "url": "https://canalrivertrust.org.uk/notices/019e02c0-c516-7ab8-8082-03ba2d8e209e",
+      "lng": -2.1255,
+      "lat": 52.6836,
       "geometry_points": [
         [
-          -1.1484,
-          52.6176
+          -2.1255,
+          52.6836
         ],
         [
-          -1.1448,
-          52.6215
+          -2.1196,
+          52.6914
         ]
       ],
       "image": null,
       "raw": {
-        "id": "019eb65a-547e-72e2-8665-d3b110d85c97",
-        "title": "Upstream approach to St Mary's Mill Lock 40 and upstream approach to Freemans Meadow Lock 41, Leicester",
-        "region": "East Midlands",
-        "waterways": "Leicester Line (Grand Union Canal)",
-        "path": "/notices/019eb65a-547e-72e2-8665-d3b110d85c97",
-        "typeId": 4,
+        "id": "019e02c0-c516-7ab8-8082-03ba2d8e209e",
+        "title": "Towpath and Moorings between Four Ashes Bridge No. 78A and Watling Steet Bridge 79, Penkridge, Stafford",
+        "region": "West Midlands",
+        "waterways": "Staffordshire & Worcestershire Cnl",
+        "path": "/notices/019e02c0-c516-7ab8-8082-03ba2d8e209e",
+        "typeId": 3,
         "reasonId": 2,
         "programmeId": 1,
         "start": "2026-06-15T07:00:00+00:00",
-        "end": "2026-07-10T16:00:00+00:00",
+        "end": "2026-07-31T17:00:00+00:00",
         "state": "Published",
         "image": null
       }
@@ -10308,47 +9751,6 @@
       }
     },
     {
-      "id": "019d6db1-2f51-7fbe-821f-f504d0b93646",
-      "title": "Dean Lock",
-      "summary": null,
-      "type_id": 4,
-      "type_name": "Advice",
-      "reason_id": 6,
-      "reason_name": "Maintenance",
-      "programme_id": 1,
-      "programme_name": null,
-      "state": "Published",
-      "start": "2026-06-01T07:00:00+00:00",
-      "end": "2026-07-10T15:30:00+00:00",
-      "region": "North West",
-      "waterways": "Leeds & Liverpool Canal",
-      "path": "/notices/019d6db1-2f51-7fbe-821f-f504d0b93646",
-      "url": "https://canalrivertrust.org.uk/notices/019d6db1-2f51-7fbe-821f-f504d0b93646",
-      "lng": -2.7032,
-      "lat": 53.562,
-      "geometry_points": [
-        [
-          -2.7032,
-          53.562
-        ]
-      ],
-      "image": null,
-      "raw": {
-        "id": "019d6db1-2f51-7fbe-821f-f504d0b93646",
-        "title": "Dean Lock",
-        "region": "North West",
-        "waterways": "Leeds & Liverpool Canal",
-        "path": "/notices/019d6db1-2f51-7fbe-821f-f504d0b93646",
-        "typeId": 4,
-        "reasonId": 6,
-        "programmeId": 1,
-        "start": "2026-06-01T07:00:00+00:00",
-        "end": "2026-07-10T15:30:00+00:00",
-        "state": "Published",
-        "image": null
-      }
-    },
-    {
       "id": "019d6d90-3d96-76b2-bb1f-2c6d0f97a837",
       "title": "Lock 45, Kents Lock - Offside",
       "summary": null,
@@ -10385,6 +9787,47 @@
         "programmeId": 1,
         "start": "2026-06-01T07:00:00+00:00",
         "end": "2026-07-31T15:00:00+00:00",
+        "state": "Published",
+        "image": null
+      }
+    },
+    {
+      "id": "019d6db1-2f51-7fbe-821f-f504d0b93646",
+      "title": "Dean Lock",
+      "summary": null,
+      "type_id": 4,
+      "type_name": "Advice",
+      "reason_id": 6,
+      "reason_name": "Maintenance",
+      "programme_id": 1,
+      "programme_name": null,
+      "state": "Published",
+      "start": "2026-06-01T07:00:00+00:00",
+      "end": "2026-07-10T15:30:00+00:00",
+      "region": "North West",
+      "waterways": "Leeds & Liverpool Canal",
+      "path": "/notices/019d6db1-2f51-7fbe-821f-f504d0b93646",
+      "url": "https://canalrivertrust.org.uk/notices/019d6db1-2f51-7fbe-821f-f504d0b93646",
+      "lng": -2.7032,
+      "lat": 53.562,
+      "geometry_points": [
+        [
+          -2.7032,
+          53.562
+        ]
+      ],
+      "image": null,
+      "raw": {
+        "id": "019d6db1-2f51-7fbe-821f-f504d0b93646",
+        "title": "Dean Lock",
+        "region": "North West",
+        "waterways": "Leeds & Liverpool Canal",
+        "path": "/notices/019d6db1-2f51-7fbe-821f-f504d0b93646",
+        "typeId": 4,
+        "reasonId": 6,
+        "programmeId": 1,
+        "start": "2026-06-01T07:00:00+00:00",
+        "end": "2026-07-10T15:30:00+00:00",
         "state": "Published",
         "image": null
       }
@@ -10988,51 +10431,6 @@
         "start": "2026-05-19T06:00:00+00:00",
         "end": null,
         "state": "Published",
-        "image": null
-      }
-    },
-    {
-      "id": "019e2b40-8838-7c76-b96a-21dbc144d817",
-      "title": "Bournville Lane Visitor Moorings access track, Stirchley, Birmingham\n",
-      "summary": null,
-      "type_id": 4,
-      "type_name": "Advice",
-      "reason_id": 2,
-      "reason_name": "3rd Party Works",
-      "programme_id": 1,
-      "programme_name": null,
-      "state": "Completed",
-      "start": "2026-05-18T06:00:00+00:00",
-      "end": "2026-07-03T17:00:00+00:00",
-      "region": "West Midlands",
-      "waterways": "Worcester & Birmingham Canal",
-      "path": "/notices/019e2b40-8838-7c76-b96a-21dbc144d817",
-      "url": "https://canalrivertrust.org.uk/notices/019e2b40-8838-7c76-b96a-21dbc144d817",
-      "lng": -1.9272,
-      "lat": 52.4295,
-      "geometry_points": [
-        [
-          -1.9272,
-          52.4295
-        ],
-        [
-          -1.9293,
-          52.4349
-        ]
-      ],
-      "image": null,
-      "raw": {
-        "id": "019e2b40-8838-7c76-b96a-21dbc144d817",
-        "title": "Bournville Lane Visitor Moorings access track, Stirchley, Birmingham\n",
-        "region": "West Midlands",
-        "waterways": "Worcester & Birmingham Canal",
-        "path": "/notices/019e2b40-8838-7c76-b96a-21dbc144d817",
-        "typeId": 4,
-        "reasonId": 2,
-        "programmeId": 1,
-        "start": "2026-05-18T06:00:00+00:00",
-        "end": "2026-07-03T17:00:00+00:00",
-        "state": "Completed",
         "image": null
       }
     },
@@ -12776,51 +12174,6 @@
       }
     },
     {
-      "id": "019c5163-09e1-732c-97fb-2f13ce6b32af",
-      "title": "Towpath Restriction - Paddington Arm (Grand Union Canal), Between Bridge 15A, Greenford Road & Bridge 21, Bulls Bridge , Greenford & Hayes",
-      "summary": null,
-      "type_id": 8,
-      "type_name": "Towpath Restriction",
-      "reason_id": 2,
-      "reason_name": "3rd Party Works",
-      "programme_id": 1,
-      "programme_name": null,
-      "state": "Completed",
-      "start": "2026-02-16T08:00:00+00:00",
-      "end": "2026-07-03T16:00:00+00:00",
-      "region": "London and South East",
-      "waterways": "Paddington Arm (Grand Union Canal)",
-      "path": "/notices/019c5163-09e1-732c-97fb-2f13ce6b32af",
-      "url": "https://canalrivertrust.org.uk/notices/019c5163-09e1-732c-97fb-2f13ce6b32af",
-      "lng": -0.4067,
-      "lat": 51.4999,
-      "geometry_points": [
-        [
-          -0.4067,
-          51.4999
-        ],
-        [
-          -0.3413,
-          51.546
-        ]
-      ],
-      "image": null,
-      "raw": {
-        "id": "019c5163-09e1-732c-97fb-2f13ce6b32af",
-        "title": "Towpath Restriction - Paddington Arm (Grand Union Canal), Between Bridge 15A, Greenford Road & Bridge 21, Bulls Bridge , Greenford & Hayes",
-        "region": "London and South East",
-        "waterways": "Paddington Arm (Grand Union Canal)",
-        "path": "/notices/019c5163-09e1-732c-97fb-2f13ce6b32af",
-        "typeId": 8,
-        "reasonId": 2,
-        "programmeId": 1,
-        "start": "2026-02-16T08:00:00+00:00",
-        "end": "2026-07-03T16:00:00+00:00",
-        "state": "Completed",
-        "image": null
-      }
-    },
-    {
       "id": "019c42de-76e7-7bc1-bb56-8416c8c01af8",
       "title": "Aldridge Marina to Aldridge Wharf Bridge, Walsall",
       "summary": null,
@@ -14027,51 +13380,6 @@
       }
     },
     {
-      "id": "01990a3e-17da-752a-a1de-202089378ea5",
-      "title": "Ravensthorpe Towpath Closure TRU",
-      "summary": null,
-      "type_id": 3,
-      "type_name": "Towpath Closure",
-      "reason_id": 2,
-      "reason_name": "3rd Party Works",
-      "programme_id": 1,
-      "programme_name": null,
-      "state": "Published",
-      "start": "2025-11-05T08:00:00+00:00",
-      "end": "2026-07-31T17:00:00+00:00",
-      "region": "Yorkshire and North East",
-      "waterways": "Calder & Hebble Navigation",
-      "path": "/notices/01990a3e-17da-752a-a1de-202089378ea5",
-      "url": "https://canalrivertrust.org.uk/notices/01990a3e-17da-752a-a1de-202089378ea5",
-      "lng": -1.6588,
-      "lat": 53.6766,
-      "geometry_points": [
-        [
-          -1.6588,
-          53.6766
-        ],
-        [
-          -1.6431,
-          53.6753
-        ]
-      ],
-      "image": null,
-      "raw": {
-        "id": "01990a3e-17da-752a-a1de-202089378ea5",
-        "title": "Ravensthorpe Towpath Closure TRU",
-        "region": "Yorkshire and North East",
-        "waterways": "Calder & Hebble Navigation",
-        "path": "/notices/01990a3e-17da-752a-a1de-202089378ea5",
-        "typeId": 3,
-        "reasonId": 2,
-        "programmeId": 1,
-        "start": "2025-11-05T08:00:00+00:00",
-        "end": "2026-07-31T17:00:00+00:00",
-        "state": "Published",
-        "image": null
-      }
-    },
-    {
       "id": "019a4e94-3d97-7c1d-a44f-598555fab812",
       "title": "Ravensthorpe new viaduct construction",
       "summary": null,
@@ -14112,6 +13420,51 @@
         "programmeId": 1,
         "start": "2025-11-05T08:00:00+00:00",
         "end": "2026-08-30T17:00:00+00:00",
+        "state": "Published",
+        "image": null
+      }
+    },
+    {
+      "id": "01990a3e-17da-752a-a1de-202089378ea5",
+      "title": "Ravensthorpe Towpath Closure TRU",
+      "summary": null,
+      "type_id": 3,
+      "type_name": "Towpath Closure",
+      "reason_id": 2,
+      "reason_name": "3rd Party Works",
+      "programme_id": 1,
+      "programme_name": null,
+      "state": "Published",
+      "start": "2025-11-05T08:00:00+00:00",
+      "end": "2026-07-31T17:00:00+00:00",
+      "region": "Yorkshire and North East",
+      "waterways": "Calder & Hebble Navigation",
+      "path": "/notices/01990a3e-17da-752a-a1de-202089378ea5",
+      "url": "https://canalrivertrust.org.uk/notices/01990a3e-17da-752a-a1de-202089378ea5",
+      "lng": -1.6588,
+      "lat": 53.6766,
+      "geometry_points": [
+        [
+          -1.6588,
+          53.6766
+        ],
+        [
+          -1.6431,
+          53.6753
+        ]
+      ],
+      "image": null,
+      "raw": {
+        "id": "01990a3e-17da-752a-a1de-202089378ea5",
+        "title": "Ravensthorpe Towpath Closure TRU",
+        "region": "Yorkshire and North East",
+        "waterways": "Calder & Hebble Navigation",
+        "path": "/notices/01990a3e-17da-752a-a1de-202089378ea5",
+        "typeId": 3,
+        "reasonId": 2,
+        "programmeId": 1,
+        "start": "2025-11-05T08:00:00+00:00",
+        "end": "2026-07-31T17:00:00+00:00",
         "state": "Published",
         "image": null
       }
